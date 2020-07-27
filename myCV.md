@@ -1,8 +1,6 @@
 ---
-tags: CV, GIGA
+tags: CV
 ---
-
-[TOC]
 
 # Curriculum Vitae
 
@@ -71,19 +69,19 @@ CRC = Cyclotron Research Centre; ULiège = University of Liège, Belgium.
 ### PhD thesis in applied sciences and biomedical science 
 17 in total, 11 completed and 5 on-going since 2008:
 - Y. Leclercq, “Development of an EEG-based brain-computer-interface working in a MRI scanner”, 2008-2010 (interupted), unfinished thesis;
-- A. Collard, “Geometric algorithms for the processing of DTI and their use in tractography and large scale genetic association study.” 2009-2013, co-sup. with Prof. R. Sepulchre;
-- J. Schrouff, “Pattern Recognition in NeuroImaging: What can machine learning classifiers bring to the analysis of functional brain imaging?” 2009-2013;
-- E. André, “Improvement of data quality for Diffusion Kurtosis Imaging and application to clinical neurological research.” 2010-2014, co-sup. with Dr. E. Balteau;
-- E. Ziegler, “Multimodal modelling of the human brain.” 2010-2014;
+- A. Collard, [“Geometric algorithms for the processing of DTI and their use in tractography and large scale genetic association study.”](http://hdl.handle.net/2268/156140) 2009-2013, co-sup. with Prof. R. Sepulchre;
+- J. Schrouff, [“Pattern Recognition in NeuroImaging: What can machine learning classifiers bring to the analysis of functional brain imaging?”](http://hdl.handle.net/2268/141001) 2009-2013;
+- E. André, [“Improvement of data quality for Diffusion Kurtosis Imaging and application to clinical neurological research.”](http://hdl.handle.net/2268/170414) 2010-2014, co-sup. with Dr. E. Balteau;
+- E. Ziegler, [“Multimodal modelling of the human brain.”](http://hdl.handle.net/2268/182436) 2010-2014;
 - F. Bretin, “Dosimetry of preclinical and clinical case studies of 18F-radiopharmaceuticals using PET and CT: Methods of quantification, their improvement and considerations of critical exposures.” 2011-2015, co-sup. with Prof. A. Seret;
-- B. Guillaume, “Accurate non-iterative modelling and inference of longitudinal neuroimaging data.” 2010-2015, co-sup. with Prof T. Nichols, Warwick University, UK.
-- K. Möllenhof, “Novel methods for the detection of functional brain activity using 17O MR.” 2012-2016, co-sup with Prof J. Shah, Jülich Research Centre, Germany;
-- D. Coppieters, “Detection of spontaneous pattern of activities in EEG/MEG.” 2012-2016;
-- F. Thomas, “Continuous Glucose Monitoring for Optimising Glycaemic Performance in Individuals without Diabetes” 2013-2017, co-sup. with Dr. T. Desaives;
-- M. Wehenkel, “Characterization of neurodegenerative diseases with tree ensemble methods: the case of Alzheimer’s disease.” 2014-2018, co-sup. with Prof. P. Geurts;
+- B. Guillaume, [“Accurate non-iterative modelling and inference of longitudinal neuroimaging data.”](http://hdl.handle.net/2268/186284) 2010-2015, co-sup. with Prof T. Nichols, Warwick University, UK.
+- K. Möllenhof, [“Novel methods for the detection of functional brain activity using 17O MR.”](http://hdl.handle.net/2268/199125) 2012-2016, co-sup with Prof J. Shah, Jülich Research Centre, Germany;
+- D. Coppieters, [“Detection of spontaneous pattern of activities in EEG/MEG.”](http://hdl.handle.net/2268/203832) 2012-2016;
+- F. Thomas, [“Continuous Glucose Monitoring for Optimising Glycaemic Performance in Individuals without Diabetes”](http://hdl.handle.net/2268/211314) 2013-2017, co-sup. with Dr. T. Desaives;
+- M. Wehenkel, [“Characterization of neurodegenerative diseases with tree ensemble methods: the case of Alzheimer’s disease.”](http://hdl.handle.net/2268/227796) 2014-2018, co-sup. with Prof. P. Geurts;
 - P. Villar Gonzalez, “Linking cerebral microstructure, sleep-wake cycles and cognition with dementia risk” 2017-2019 (interupted), co-sup. with Dr. C. Bastin, unfinished thesis;
 - G. Antonopoulos, “Machine Learning applications for characterizing brain-damaged patients’ level of consciousness.” 2013-2019, co-sup. with Prof. S. Laureys;
-- M. Abdelrahman, “Personal dosimetry of workers without a physical dosimeter using computational methods.” 2016-2020 (expected), co-sup. with Dr. F. Vanhavere (SCK-CEN);
+- M. Abdelrahman, [“Personal dosimetry of workers without a physical dosimeter using computational methods.”](http://hdl.handle.net/2268/249649) 2016-2020 (expected), co-sup. with Dr. F. Vanhavere (SCK-CEN);
 - N. Vandeleene, “Identification of lesional brain tissues from quantitative Magnetic Resonance Imaging (qMRI) data”. 2018-2022 (expected);
 - M. Grignard, “Realistic electro-magnetic head modeling of the head”. 2018-2022 (expected), co-sup. with Prof. C. Geuzaine;
 - E. Lavrova, “Quantitative Neuro-Imaging with Radiomics and Deep Learning in two main neurological diseases: Multiple Sclerosis and Stroke”. 2019-2023 (expected), co-sup. with Prof. E. Salmon, ULiege, and Prof. P. Lambin, UMaastricht, Netherlands.
@@ -98,7 +96,7 @@ CRC = Cyclotron Research Centre; ULiège = University of Liège, Belgium.
 
 ## Publications
 
-All the publications are **available in open access** via [Orbi@ULiège](http://orbi.uliege.be/ph-search?uid=u016440) 
+All the publications are **available in open access** via [Orbi@ULiège](http://orbi.uliege.be/ph-search?uid=u016440). The list of publications are available on the usual platforms such as: 
 - [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ)
 - [ORCID](https://orcid.org/0000-0002-4990-425X)
 - [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552 )
