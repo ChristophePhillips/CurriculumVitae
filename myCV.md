@@ -50,9 +50,9 @@ CRC = Cyclotron Research Centre; ULiège = University of Liège, Belgium.
 
 ## ULiege classes
 
-- [“Medical imaging” course](https://www.programmes.uliege.be/cocoon/20202021/en/cours/GBIO0008-2.html), master in biomedical engineering & electrical engineering (5 ECTS), Faculty of Applied Sciences, ULiège, since 2008.
-- [“Introduction to medical statistics” course](https://www.programmes.uliege.be/cocoon/20202021/en/cours/STAT0722-1.html), masters in physics and biomedical engineering (2 ECTS), Faculty of Sciences, ULiège, since 2002.
-- [Introduction to scientific computing](https://indico.giga.uliege.be/event/146/) for the [GIGA Doctorate School](https://www.gigadoctoralschool.uliege.be/cms/c_5468932/en/gigadoctoralschool), [GIGA Institute](https://www.giga.uliege.be/). Course started in [2019](https://indico.giga.uliege.be/event/36/).
+- [“Medical imaging”](https://www.programmes.uliege.be/cocoon/20202021/en/cours/GBIO0008-2.html) course, master in biomedical engineering & electrical engineering (5 ECTS), Faculty of Applied Sciences, ULiège, since 2008.
+- [“Introduction to medical statistics”](https://www.programmes.uliege.be/cocoon/20202021/en/cours/STAT0722-1.html) course, masters in physics and biomedical engineering (2 ECTS), Faculty of Sciences, ULiège, since 2002.
+- ["Introduction to scientific computing"](https://indico.giga.uliege.be/event/146/) course, [GIGA Doctorate School](https://www.gigadoctoralschool.uliege.be/cms/c_5468932/en/gigadoctoralschool), [GIGA Institute](https://www.giga.uliege.be/). Course started in [2019](https://indico.giga.uliege.be/event/36/).
 
 ### International workshops
 - [“Statistical parametric Mapping” (SPM)](https://www.fil.ion.ucl.ac.uk/spm/) yearly courses on fMRI/VBM/PET and M/EEG data processing, Wellcome Trust Centre for Neuroimaging, University College London, UK, since 2002 
