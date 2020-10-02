@@ -52,6 +52,7 @@ CRC = Cyclotron Research Centre; ULiège = University of Liège, Belgium.
 
 - [“Medical imaging” course](https://www.programmes.uliege.be/cocoon/20202021/en/cours/GBIO0008-2.html), master in biomedical engineering & electrical engineering (5 ECTS), Faculty of Applied Sciences, ULiège, since 2008.
 - [“Introduction to medical statistics” course](https://www.programmes.uliege.be/cocoon/20202021/en/cours/STAT0722-1.html), masters in physics and biomedical engineering (2 ECTS), Faculty of Sciences, ULiège, since 2002.
+- [Introduction to scientific computing](https://indico.giga.uliege.be/event/146/) for the [GIGA Doctorate School](https://www.gigadoctoralschool.uliege.be/cms/c_5468932/en/gigadoctoralschool), [GIGA Institute](https://www.giga.uliege.be/). Course started in [2019](https://indico.giga.uliege.be/event/36/).
 
 ### International workshops
 - [“Statistical parametric Mapping” (SPM)](https://www.fil.ion.ucl.ac.uk/spm/) yearly courses on fMRI/VBM/PET and M/EEG data processing, Wellcome Trust Centre for Neuroimaging, University College London, UK, since 2002 
@@ -60,14 +61,14 @@ CRC = Cyclotron Research Centre; ULiège = University of Liège, Belgium.
 - [“Pattern Recognition for Neuroimaging”](https://cyclotronresearchcentre.github.io/OHBM2020_ML4NI/) one-day Educational Course, annual Organization for Human Brain Mapping meetings, 2014-2018 & 2020.
 
 ## Students and postdocs supervision
-(as main supervisor, otherwise stated)
+as main supervisor, otherwise stated
 
 ### Master in engineering
 - Thesis project in engineering, 17 in total since 2005;
 - Lab internship supervision at the CRC, 2 MSc in engineering students from Polytech Nantes (Frances)
 
 ### PhD thesis in applied sciences and biomedical science 
-17 in total, 11 completed and 5 on-going since 2008:
+17 in total, 12 completed and 5 on-going since 2008:
 - Y. Leclercq, “Development of an EEG-based brain-computer-interface working in a MRI scanner”, 2008-2010 (interupted), unfinished thesis;
 - A. Collard, [“Geometric algorithms for the processing of DTI and their use in tractography and large scale genetic association study.”](http://hdl.handle.net/2268/156140) 2009-2013, co-sup. with Prof. R. Sepulchre;
 - J. Schrouff, [“Pattern Recognition in NeuroImaging: What can machine learning classifiers bring to the analysis of functional brain imaging?”](http://hdl.handle.net/2268/141001) 2009-2013;
@@ -79,12 +80,12 @@ CRC = Cyclotron Research Centre; ULiège = University of Liège, Belgium.
 - D. Coppieters, [“Detection of spontaneous pattern of activities in EEG/MEG.”](http://hdl.handle.net/2268/203832) 2012-2016;
 - F. Thomas, [“Continuous Glucose Monitoring for Optimising Glycaemic Performance in Individuals without Diabetes”](http://hdl.handle.net/2268/211314) 2013-2017, co-sup. with Dr. T. Desaives;
 - M. Wehenkel, [“Characterization of neurodegenerative diseases with tree ensemble methods: the case of Alzheimer’s disease.”](http://hdl.handle.net/2268/227796) 2014-2018, co-sup. with Prof. P. Geurts;
-- P. Villar Gonzalez, “Linking cerebral microstructure, sleep-wake cycles and cognition with dementia risk” 2017-2019 (interupted), co-sup. with Dr. C. Bastin, unfinished thesis;
-- G. Antonopoulos, “Machine Learning applications for characterizing brain-damaged patients’ level of consciousness.” 2013-2019, co-sup. with Prof. S. Laureys;
-- M. Abdelrahman, [“Personal dosimetry of workers without a physical dosimeter using computational methods.”](http://hdl.handle.net/2268/249649) 2016-2020 (expected), co-sup. with Dr. F. Vanhavere (SCK-CEN);
+- P. Villar Gonzalez, “Linking cerebral microstructure, sleep-wake cycles and cognition with dementia risk” 2017-2019 (interupted), co-sup. with Prof. C. Bastin, unfinished thesis;
+- G. Antonopoulos, [“Machine Learning applications for characterizing brain-damaged patients’ level of consciousness.”](http://hdl.handle.net/2268/249874) 2013-2019, co-sup. with Prof. S. Laureys;
+- M. Abdelrahman, [“Personal dosimetry of workers without a physical dosimeter using computational methods.”](http://hdl.handle.net/2268/249649) 2016-2020, co-sup. with Prof. A. Seret and Dr F. Vanhavere (SCK-CEN, Belgium);
 - N. Vandeleene, “Identification of lesional brain tissues from quantitative Magnetic Resonance Imaging (qMRI) data”. 2018-2022 (expected);
 - M. Grignard, “Realistic electro-magnetic head modeling of the head”. 2018-2022 (expected), co-sup. with Prof. C. Geuzaine;
-- E. Lavrova, “Quantitative Neuro-Imaging with Radiomics and Deep Learning in two main neurological diseases: Multiple Sclerosis and Stroke”. 2019-2023 (expected), co-sup. with Prof. E. Salmon, ULiege, and Prof. P. Lambin, UMaastricht, Netherlands.
+- E. Lavrova, “Quantitative Neuro-Imaging with Radiomics and Deep Learning in two main neurological diseases: Multiple Sclerosis and Stroke”. 2019-2023 (expected), co-sup. with Prof. E. Salmon and Prof. P. Lambin (UMaastricht, Netherlands);
 - S. Moallemian, "Multimodal analysis of biomarkers interactions to predict cognitive decline and risk for dementia". 2020-2024 (expected), co-sup. with Prof. C. Bastin. 
 
 ### Postdoctoral supervision
@@ -113,13 +114,18 @@ Other bits of code produced at the CRC/GIGA-research are distributed under an op
 
 # Community
 
+## Reviewing and editing
+- Member of several Ph.D. jury evaluation committees
+    - in Belgium: at ULiège (in the Faculty of Applied Sciences, Psychology, and Medicine), University of Ghent (Belgium);
+    - abroad: Maastricht University (Netherlands), INRIA (France), University of Birmingham (UK), Kings College London (UK);
+- 2020 - now. Editor for the OA journal ["Aperture"](https://ohbm-aperture.github.io/) driven by [OHBM](https://www.humanbrainmapping.org/);
+- 2017 - now. Editor for the journal ["Scientific Reports"](https://www.nature.com/srep/).
+
 ## Service to the community:
 - 2018 - now. Ad hoc member of the “Program Committee”, Organization for Human Brain Mapping. 
 - 2017 - now. Board member of the “Belgian Society for Neuroscience”.
-- 2017 - now. Editor for the journal “Scientific Reports”.
 - 2016 - now. Representative for the scientific staff, GIGA-Research, ULiège.
 - *De facto* member of the Faculty Council, Faculty of Applied Sciences, ULiège.
-- Member of several Ph.D. jury evaluation committees at ULiège (Faculty of Applied Sciences, of Psychology, and of Medicine), University of Ghent (Belgium), Maastricht University (Netherlands), INRIA (France), University of Birmingham (UK), Kings College London (UK).
 - Former member of several commissions for the designation of new Academics, Faculty of Applied Sciences, ULiège.
 - 2017 - 2018. Member of the “Communication Committee”, Organization for Human Brain Mapping. 
 
