@@ -6,12 +6,12 @@ tags: CV
 
 **Christophe Phillips**, Ir., Ph.D.
 
-Contact details are available in the [university directory](https://www.uliege.be/cms/c_9054334/en/directory/?uid=U016440).
+Contact details are available in the [University of Liège directory](https://www.uliege.be/cms/c_9054334/en/directory/?uid=U016440).
 
 ## Current position
-**FRS-FNRS Senior Research Associate** & **Associate Professor** at the [University of Liège](https://www.uliege.be/), Belgium:
+**[FRS-FNRS Senior Research Associate](https://www.frs-fnrs.be/)** & **Associate Professor** at the [University of Liège](https://www.uliege.be/), Belgium:
 - [GIGA Institute](https://www.giga.uliege.be/) in the "[*In Silico* Medicine](https://www.gigainsilico.uliege.be/)" and "[CRC *In Vivo* Imaging](https://www.gigacrc.uliege.be/)" research units;
-- [Department of Electrical Engineering and Computer Science](https://www.montefiore.uliege.be/cms/c_3482888/en/montefiore-institute), aka. Montefiore Institute
+- [Department of Electrical Engineering and Computer Science](https://www.montefiore.uliege.be/cms/c_3482888/en/montefiore-institute), aka. "Montefiore Institute".
 
 Honorary Research Associate, [Machine Learning and neuroimaging Lab](http://www.mlnl.cs.ucl.ac.uk/), [Centre for Medical Image Computing](https://www.ucl.ac.uk/medical-image-computing/), University College London, UK. 
 
@@ -42,8 +42,8 @@ CRC = Cyclotron Research Centre; ULiège = University of Liège, Belgium.
 
 ### ULiege classes
 
-- [“Medical imaging”](https://www.programmes.uliege.be/cocoon/20202021/en/cours/GBIO0008-2.html) course, master in biomedical engineering & electrical engineering (5 ECTS), Faculty of Applied Sciences, ULiège, since 2008.
-- [“Introduction to medical statistics”](https://www.programmes.uliege.be/cocoon/20202021/en/cours/STAT0722-1.html) course, masters in physics and biomedical engineering (2 ECTS), Faculty of Sciences, ULiège, since 2002.
+- [“Medical imaging”](https://www.programmes.uliege.be/cocoon/20202021/en/cours/GBIO0008-2.html), master in biomedical engineering & electrical engineering (5 ECTS), Faculty of Applied Sciences, ULiège, since 2008.
+- [“Introduction to medical statistics”](https://www.programmes.uliege.be/cocoon/20202021/en/cours/STAT0722-1.html), masters in physics and biomedical engineering (2 ECTS), Faculty of Sciences, ULiège, since 2002.
 - ["Introduction to scientific computing"](https://indico.giga.uliege.be/event/146/) course, [GIGA Doctorate School](https://www.gigadoctoralschool.uliege.be/cms/c_5468932/en/gigadoctoralschool), [GIGA Institute](https://www.giga.uliege.be/). Course organized in 2018 and [2019](https://indico.giga.uliege.be/event/36/).
 
 ### International workshops
@@ -78,7 +78,7 @@ since 2008, supervision of 18 PhD students (4 ongoing, 2 interrupted and 12 comp
 - M. Abdelrahman, [“Personal dosimetry of workers without a physical dosimeter using computational methods.”](http://hdl.handle.net/2268/249649) 2016-2020, co-sup. with Prof. A. Seret and Dr F. Vanhavere (SCK-CEN, Belgium);
 - N. Vandeleene, “Identification of lesional brain tissues from quantitative Magnetic Resonance Imaging (qMRI) data”. 2018-2022 (expected);
 - M. Grignard, “Realistic electro-magnetic head modeling of the head”. 2018-2022 (expected), co-sup. with Prof. C. Geuzaine;
-- E. Lavrova, “Quantitative Neuro-Imaging with Radiomics and Deep Learning in two main neurological diseases: Multiple Sclerosis and Stroke”. 2019-2023 (expected), co-sup. with Prof. E. Salmon and Prof. P. Lambin (UMaastricht, Netherlands);
+- E. Lavrova, “Quantitative Neuro-Imaging with Radiomics and Deep Learning in two main neurological diseases: Multiple Sclerosis and Stroke”. 2019-2023 (expected), co-sup. with Prof. E. Salmon (ULiège) and Prof. P. Lambin (UMaastricht, Netherlands);
 - S. Moallemian, "Multimodal analysis of biomarkers interactions to predict cognitive decline and risk for dementia". 2020-2024 (expected), co-sup. with Prof. C. Bastin. 
 
 ### Postdoctoral supervision
@@ -90,7 +90,8 @@ since 2008, supervision of 18 PhD students (4 ongoing, 2 interrupted and 12 comp
 
 ### Publications
 
-All the publications are **available in open access** via [Orbi@ULiège](http://orbi.uliege.be/ph-search?uid=u016440). The list of publications are available on the usual platforms such as [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ), [ORCID](https://orcid.org/0000-0002-4990-425X), and [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552 ).
+All the publications are **available in open access** via [Orbi@ULiège](http://orbi.uliege.be/ph-search?uid=u016440). <br>
+The list of publications are available on the usual platforms such as [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ), [ORCID](https://orcid.org/0000-0002-4990-425X), and [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552 ).
 
 ### Software developments
 
@@ -100,36 +101,38 @@ Contribution to existing toolboxes
 - ["Pattern Recognition in Neuroimaging Toolbox", PRoNTo](http://www.mlnl.cs.ucl.ac.uk/pronto/). Member of the PRoNTo development team since 2011. 
 - ["Histological MRI", hMRI](http://hmri.info), toolbox. Member of the development team since 2016.
 
-Other bits of code produced at the CRC/GIGA-research are distributed under an open source license via the Cyclotron Research Centre [GitHub](https://github.com/CyclotronResearchCentre) or [GitLab](https://gitlab.uliege.be/CyclotronResearchCentre) platforms. Note that the latter is hosted on the ULiege server.
-
-## Community service
-
-### Reviewing and editing
-- Member of several Ph.D. jury evaluation committees
-    - in Belgium: at ULiège (in the Faculty of Applied Sciences, Psychology, and Medicine), University of Ghent (Belgium);
-    - abroad: Maastricht University (Netherlands), INRIA (France), University of Birmingham (UK), Kings College London (UK);
-- 2020 - now. Editor for the OA journal ["Aperture"](https://ohbm-aperture.github.io/) driven by [OHBM](https://www.humanbrainmapping.org/);
-- 2017 - now. Editor for the journal ["Scientific Reports"](https://www.nature.com/srep/).
-
-### Service to the community:
-- 2018 - now. Ad hoc member of the “Program Committee”, Organization for Human Brain Mapping. 
-- 2017 - now. Board member of the “Belgian Society for Neuroscience”.
-- 2016 - now. Representative for the scientific staff, GIGA-Research, ULiège.
-- *De facto* member of the Faculty Council, Faculty of Applied Sciences, ULiège.
-- Former member of several commissions for the designation of new Academics, Faculty of Applied Sciences, ULiège.
-- 2017 - 2018. Member of the “Communication Committee”, Organization for Human Brain Mapping. 
+Other bits of code produced at the CRC/GIGA-research are distributed under an open source license via the Cyclotron Research Centre [GitHub](https://github.com/CyclotronResearchCentre) or [GitLab](https://gitlab.uliege.be/CyclotronResearchCentre) platforms. <br>
+Note that the latter is hosted on the ULiege server.
 
 ### National and international collaborations
 (past and current)
 - 2018-2022, “Excellence of Science” grant, [MEMODYN project](https://crcn.ulb.ac.be/news/the-memodyn-project-laureate-of-the-eos-programme/), co-PI within the network of the University of Liège, Ghent, Brussels and Leuven, Belgium, and University College London, UK.
-- Prof. Nikolaus Weiskopf, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany, and an international team for the development of the “histological MRI” toolbox.
-- Prof. Janaina Mourao-Miranda, Machine learning and Neuroimaging Lab, Department of Computer Science, University College London, UK.
-- Profs Karl J. Friston and Martina Callaghan, Wellcome Trust Centre for Neuroimaging, University College London, UK, for the development of SPM and “quantitative MRI methods”.
-- 2009-2015, ULiège representative for the Marie Curie International Training Network (MC-ITN) “Methods in Neuroimaging”. Along the CRC (ULiège), the network also involves: the Maastricht Brain Imaging Centre (Maastricht University, the Netherlands), the Research Centre Jülich (Germany) and GSK Clinical Imaging Centre, UK. 7 theses in co-diplomation ULiège-UMaastricht.
+- [Prof. Dr Nikolaus Weiskopf](https://www.cbs.mpg.de/employees/weiskopf), Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany, and an international team for the development of the “histological MRI” toolbox.
+- [Prof. Dr Janaina Mourao-Miranda](https://iris.ucl.ac.uk/iris/browse/profile?upi=JMOUR63), Machine learning and Neuroimaging Lab, Department of Computer Science, University College London, UK.
+- [Prof Dr Karl J. Friston](https://www.fil.ion.ucl.ac.uk/~karl/) and [Prof Dr Martina Callaghan](https://iris.ucl.ac.uk/iris/browse/profile?upi=MCALL93), Wellcome Trust Centre for Neuroimaging, University College London, UK, for the development of SPM and “quantitative MRI methods”.
+- 2009-2015, ULiège representative for the Marie Curie International Training Network (MC-ITN) “Methods in Neuroimaging”. Along the CRC (ULiège), the network also involves: the Maastricht Brain Imaging Centre (Maastricht University, the Netherlands), the Research Centre Jülich (Germany) and GSK Clinical Imaging Centre, UK. <br>
+  Seven Ph.D. theses in ULiège-UMaastricht co-diplomation .
 
 ### Scientific prizes:
 - “Prix Janine et Jacques Delruelle” 2014 (from the “Fondation Médicale Reine Elisabeth”) with Prof. Maquet for our work on “Characterization of human sleep/wake regulation using multimodal functional imaging in population stratified on the polymorphism of PERIOD3 gene”.
 - “Marcel Linsman Prize” 2005 (from “l'Association des Ingénieurs sortis de l'Université de Liège a.s.b.l.”) for my work in biomedical engineering.
 - “Association of the university of Liège friends“ Prize 2003, for the PhD thesis : “Source estimation in EEG: Combining anatomical and functional constraints”.
 - Siemens Belgium Prize 1997 in medical imaging for the final project: “3D image reconstruction from cone-beam projections”.
+## Community service
+
+### Reviewing and editing
+- Member of several Ph.D. jury evaluation committees
+    - in Belgium: at ULiège (in the Faculty of Applied Sciences, Psychology, and Medicine), University of Ghent (Belgium);
+    - abroad: Maastricht University (Netherlands), INRIA (France), University of Birmingham (UK), Kings College London (UK);
+- 2020 - now. member of the Editorial Board for the OA journal ["Aperture"](https://ohbm-aperture.github.io/) driven by [OHBM](https://www.humanbrainmapping.org/);
+- 2017 - now. handling Editor for the journal ["Scientific Reports"](https://www.nature.com/srep/).
+
+### Service to the community:
+- 2018 - now. Ad hoc member of the “Program Committee”, Organization for Human Brain Mapping. 
+- 2017 - now. Board member of the “Belgian Society for Neuroscience”.
+- 2016 - now. Representative of the GIGA scientific staff on the ["Conseil du Corps Scientifique"](http://labos.ulg.ac.be/ccs/), ULiège.
+- *De facto* member of the Faculty Council, Faculty of Applied Sciences, ULiège.
+- Former member of several commissions for the designation of new Academics, Faculty of Applied Sciences, ULiège.
+- 2017 - 2018. Member of the “Communication Committee”, Organization for Human Brain Mapping. 
+
 
