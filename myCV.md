@@ -126,6 +126,10 @@ Note that the latter is hosted on the ULiege server.
     - abroad: Maastricht University (Netherlands), INRIA (France), University of Birmingham (UK), Kings College London (UK);
 - 2020 - now. member of the Editorial Board for the OA journal ["Aperture"](https://ohbm-aperture.github.io/) driven by [OHBM](https://www.humanbrainmapping.org/);
 - 2017 - now. handling Editor for the journal ["Scientific Reports"](https://www.nature.com/srep/).
+- Article reviewing for several journal such as NeuroImage, Human Brain Mapping, Frontiers in Neuroscience, Scientific Reports,...
+- Grant reviewing for
+    - European Commission, H2020, [Marie Skłodowska-Curie Actions Individual Fellowships (MSCA-IF)](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) call in 2020.
+    - [Cluster for Individualized Immune Intervention (Ci3)](https://ci-3.de/), [Digital Enterprise Innovations for Bioimaging, Biosensing and Biobanking Industries (DIGI-B-CUBE)](https://ci-3.de/digibcube/) call (2019-2022).
 
 ### Service to the community:
 - 2018 - now. Ad hoc member of the “Program Committee”, Organization for Human Brain Mapping. 
