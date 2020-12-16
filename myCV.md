@@ -61,28 +61,34 @@ since 2005
 - supersion of 2 MSc in engineering students from Polytech Nantes (Frances) during their internship at the CRC.
 
 ### PhD thesis in applied sciences and biomedical science 
-since 2008, supervision of 18 PhD students (4 ongoing, 2 interrupted and 12 completed) thesis in engineering and biomedical science.
-- Y. Leclercq, “Development of an EEG-based brain-computer-interface working in a MRI scanner”, 2008-2010 (interupted), unfinished thesis;
+Since 2008, supervision of 18 PhD students thesis in engineering and biomedical science.
+
+#### Completed thesis (12)
 - A. Collard, [“Geometric algorithms for the processing of DTI and their use in tractography and large scale genetic association study.”](http://hdl.handle.net/2268/156140) 2009-2013, co-sup. with Prof. R. Sepulchre;
 - J. Schrouff, [“Pattern Recognition in NeuroImaging: What can machine learning classifiers bring to the analysis of functional brain imaging?”](http://hdl.handle.net/2268/141001) 2009-2013;
 - E. André, [“Improvement of data quality for Diffusion Kurtosis Imaging and application to clinical neurological research.”](http://hdl.handle.net/2268/170414) 2010-2014, co-sup. with Dr. E. Balteau;
 - E. Ziegler, [“Multimodal modelling of the human brain.”](http://hdl.handle.net/2268/182436) 2010-2014;
-- F. Bretin, “Dosimetry of preclinical and clinical case studies of 18F-radiopharmaceuticals using PET and CT: Methods of quantification, their improvement and considerations of critical exposures.” 2011-2015, co-sup. with Prof. A. Seret;
+- F. Bretin, [“Dosimetry of preclinical and clinical case studies of 18F-radiopharmaceuticals using PET and CT: Methods of quantification, their improvement and considerations of critical exposures.”](http://hdl.handle.net/2268/254022) 2011-2015, co-sup. with Prof. A. Seret;
 - B. Guillaume, [“Accurate non-iterative modelling and inference of longitudinal neuroimaging data.”](http://hdl.handle.net/2268/186284) 2010-2015, co-sup. with Prof T. Nichols, Warwick University, UK.
 - K. Möllenhof, [“Novel methods for the detection of functional brain activity using 17O MR.”](http://hdl.handle.net/2268/199125) 2012-2016, co-sup with Prof J. Shah, Jülich Research Centre, Germany;
 - D. Coppieters, [“Detection of spontaneous pattern of activities in EEG/MEG.”](http://hdl.handle.net/2268/203832) 2012-2016;
 - F. Thomas, [“Continuous Glucose Monitoring for Optimising Glycaemic Performance in Individuals without Diabetes”](http://hdl.handle.net/2268/211314) 2013-2017, co-sup. with Dr. T. Desaives;
 - M. Wehenkel, [“Characterization of neurodegenerative diseases with tree ensemble methods: the case of Alzheimer’s disease.”](http://hdl.handle.net/2268/227796) 2014-2018, co-sup. with Prof. P. Geurts;
-- P. Villar Gonzalez, “Linking cerebral microstructure, sleep-wake cycles and cognition with dementia risk” 2017-2019 (interupted), co-sup. with Prof. C. Bastin, unfinished thesis;
 - G. Antonopoulos, [“Machine Learning applications for characterizing brain-damaged patients’ level of consciousness.”](http://hdl.handle.net/2268/249874) 2013-2019, co-sup. with Prof. S. Laureys;
 - M. Abdelrahman, [“Personal dosimetry of workers without a physical dosimeter using computational methods.”](http://hdl.handle.net/2268/249649) 2016-2020, co-sup. with Prof. A. Seret and Dr F. Vanhavere (SCK-CEN, Belgium);
+
+#### Ongoing thesis (4)
 - N. Vandeleene, “Identification of lesional brain tissues from quantitative Magnetic Resonance Imaging (qMRI) data”. 2018-2022 (expected);
 - M. Grignard, “Realistic electro-magnetic head modeling of the head”. 2018-2022 (expected), co-sup. with Prof. C. Geuzaine;
 - E. Lavrova, “Quantitative Neuro-Imaging with Radiomics and Deep Learning in two main neurological diseases: Multiple Sclerosis and Stroke”. 2019-2023 (expected), co-sup. with Prof. E. Salmon (ULiège) and Prof. P. Lambin (UMaastricht, Netherlands);
 - S. Moallemian, "Multimodal analysis of biomarkers interactions to predict cognitive decline and risk for dementia". 2020-2024 (expected), co-sup. with Prof. C. Bastin. 
 
+#### Interrupted thesis (2)
+- Y. Leclercq, “Development of an EEG-based brain-computer-interface working in a MRI scanner”, 2008-2010;
+- P. Villar Gonzalez, “Linking cerebral microstructure, sleep-wake cycles and cognition with dementia risk” 2017-2019, co-sup. with Prof. C. Bastin;
+
 ### Postdoctoral supervision
-2 since 2008:
+Since 2008:
 - Dr. Fermin Segovia, October 2012 till September 2014. ULiège Postdoc-in grant, “Multivariate data-driven diagnosis of Parkinson's and Alzheimer's disease using pattern recognition techniques”.
 - Dr. Nikita Beliy, October 2018 till September 2021. EoS FNRS Memodyn grant, “Data management and curation”.
 
@@ -132,7 +138,7 @@ Note that the latter is hosted on the ULiege server.
     - [Cluster for Individualized Immune Intervention (Ci3)](https://ci-3.de/), [Digital Enterprise Innovations for Bioimaging, Biosensing and Biobanking Industries (DIGI-B-CUBE)](https://ci-3.de/digibcube/) call (2019-2022).
 
 ### Service to the community:
-- 2018 - now. Ad hoc member of the “Program Committee”, Organization for Human Brain Mapping. 
+- 2018 - 2021. Ad hoc member of the “Program Committee”, Organization for Human Brain Mapping. 
 - 2017 - now. Board member of the “Belgian Society for Neuroscience”.
 - 2016 - now. Representative of the GIGA scientific staff on the ["Conseil du Corps Scientifique"](http://labos.ulg.ac.be/ccs/), ULiège.
 - *De facto* member of the Faculty Council, Faculty of Applied Sciences, ULiège.
