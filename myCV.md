@@ -55,10 +55,36 @@ CRC = Cyclotron Research Centre; ULiège = University of Liège, Belgium.
 ## Students and postdocs supervision
 as main supervisor, otherwise stated
 
-### Master in engineering
-since 2005
-- supervision of 18 students in (biomedical) engineering for their master's project;
-- supersion of 2 MSc in engineering students from Polytech Nantes (Frances) during their internship at the CRC.
+### Master thesis and internships
+Since 2005, supervision of 23 students in (biomedical) engineering for their master's project:
+- A. Devalkeneer, “Segmentation EMS d'images 3D du cerveau”, 2005, co-supervisor with Prof. J. Verly;
+- G. Thielen, “Correction des artefacts d'enregistrement de signal électro-encéphalographique couplé à l'imagerie par résonance magnétique”, 2006, co-supervisor with Prof. J. Verly;
+- Y. Leclercq, “Correction of the ballistocardiographic artifact from EEG data acquired in the MRI scanner: An introduction of a cICA-based correction algorithm”, 2007;
+- J. Schrouff, “Mathematical characterisation of slow waves in slow wave sleep from EEG data.” 2009;
+- X. Mouvet, “BOLD effect sensitivity in fMRI: integrative modeling and optimization.” 2010;
+- N. Partoune, “Development of a brain-computer-interface for diagnostic purposes”, 2010;
+- S. Furlan, “Spatial realignment of diffusion weighted magnetic resonance images.” 2011;
+- O. Herbiet, “Caractérisation de l’effet de volume partiel en imagerie par emission de positrons chez les petits animaux.” 2011;
+- J.-M. Duthoo, “Développement d'une interface cerveau-ordinateur basée sur l'électroencéphalographie et l'électromyographie à des fins de diagnostique.” 2012;
+- M. Gonzalez y Viagas, “Automatic biorhythms description from actigraphic data”, 2014;
+- A. Vanvinckenroye, “Modeling and analyzing EEG-TMS data with dynamic causal modeling”, 2015;
+- V. Chêvremont, “Detection of MS lesions in magnetic resonance images using machine learning algorithms”, 2018 (not finsihed);
+- L. Godon, “Reconstruction of 3D images by tomosynthesis or tomography”, 2018;
+- V. Hortelan, “Numerical simulation of the tau proteins aggregation in the brain and in the brain metabolism”, 2018, in collaboration with Concordia University, Montreal, Canada;
+- G. Salvoni, “Multivariate statistics for the joint analysis of quantitative maps”, 2018, in collaboration with the University College London, UK;
+- S. Mastrodicasa, “Multimodal and multivariate psychological prediction in adolescent”, 2018, in collaboration with the University College London, UK;
+- N. Vandeleene, “Analyses of sensitivity and specificity of fMRI measures across studies”, 2018, in collaboration with the University of Boulder, Colorado, USA;
+- T. Nguyen, "Comparison of unsupervised learning exploratory methods applied to multimodal medical data of the brain", 2019, in collaboration with the University College London, UK;
+- Y. Coppens, ["Automatic evaluation of electrophysiological signal quality for ambulatory pregnancy monitoring"](http://hdl.handle.net/2268.2/8220), 2019, in collaboration with [Bloomlife Inc.](https://bloomlife.com/);
+- E. Beckers, ["MRI contrast in the locus cœruleus: Optimisation with multi-compartment spoiled gradient echo imaging"](http://hdl.handle.net/2268.2/8842), 2020, in collaboration with the University College London, UK;
+- J. Coline, ["Tomosynthesis Imaging: Principles, Simulations and Practical Performance"](http://hdl.handle.net/2268.2/9047), 2020, in collaboration with [X-Ray Imaging Solutions](https://www.xris.eu/);
+- E. Jamotton, ["Influence of pressure on Terahertz imaging of fresh animal tissues"](http://hdl.handle.net/2268.2/10705), 2020;
+- S. Bonghi, "Quantitative MRI characterization of brain tissues in stroke patients", planned for 2021, in collaboration with the University College London, UK.
+
+Internships:
+- August 2017, Hao Hu, Polytech Nantes (Frances), "Sleep EEG visualisation";
+- August 2019, Alban, XYZ, Polytech Nantes (Frances), "Actigraphy data visualization and analysis"
+- February-March 2020, Marwa Jiyar, Haute Ecole Léonard de Vinci, Bruxelles, "Apports et différence d'un champ magnétique 7 Tesla et 3 Tesla en IRM dans la recherche fondamentale"
 
 ### PhD thesis in applied sciences and biomedical science 
 Since 2008, supervision of 18 PhD students thesis in engineering and biomedical science.
