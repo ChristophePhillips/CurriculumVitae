@@ -8,29 +8,31 @@ tags: CV
 
 Contact details are available in the [University of Liège directory](https://www.uliege.be/cms/c_9054334/en/directory/?uid=U016440).
 
+[TOC]
+
 ## Current position
-**[FRS-FNRS Senior Research Associate](https://www.frs-fnrs.be/)** & **Associate Professor** at the [University of Liège](https://www.uliege.be/), Belgium:
+**[FRS-FNRS](https://www.frs-fnrs.be/) Senior Research Associate** & **Associate Professor** at the [University of Liège](https://www.uliege.be/), Belgium:
 - [GIGA Institute](https://www.giga.uliege.be/) in the "[*In Silico* Medicine](https://www.gigainsilico.uliege.be/)" and "[CRC *In Vivo* Imaging](https://www.gigacrc.uliege.be/)" research units;
-- [Department of Electrical Engineering and Computer Science](https://www.montefiore.uliege.be/cms/c_3482888/en/montefiore-institute), aka. "Montefiore Institute".
+- [Department of Electrical Engineering and Computer Science](https://www.montefiore.uliege.be/cms/c_3482888/en/montefiore-institute), aka. "Montefiore Institute", [School of Engineering](](https://www.frs-fnrs.be/)).
 
 Honorary Research Associate, [Machine Learning and neuroimaging Lab](http://www.mlnl.cs.ucl.ac.uk/), [Centre for Medical Image Computing](https://www.ucl.ac.uk/medical-image-computing/), University College London, UK. 
 
 ## Background information
 
-Note: 
+Note:<br> 
 CRC = Cyclotron Research Centre; ULiège = University of Liège, Belgium.
 
 ### Career
 - October 2015 – now. FRS-FNRS Senior Research Associate, GIGA CRC *in vivo* imaging, ULiège. 
 - October 2015 – now. Associate Professor, Department of Electrical Engineering and Computer Science, ULiège. 
-- March 2012 – now. Honorary Research Associate, Machine Learning and neuroimaging Lab, Dept of Computer Science, University College London, UK. 
+- March 2012 – now. Honorary Research Associate, Machine Learning and Neuroimaging Lab, Department of Computer Science, University College London, UK. 
 - October 2008 – September 2015. Adjunct Assistant Professor, Department of Electrical Engineering and Computer Science, ULiège. 
 - October 2006 – September 2015. FRS-FNRS Research Associate, CRC, ULiège. 
 - October 2004 – September 2006. Postdoctoral research engineer, Department of Electrical Engineering and Computer Science, ULiège. 
 - October 2001 – September 2004. FRS-FNRS Postdoctoral Researcher, CRC, ULiège. 
 - October 2000 – September 2001. Scientific Officer, Wellcome Department of Imaging Neuroscience (Prof. K. J. Friston), University College London, UK.
 - October 1998 – September 2000. Honorary researcher, Institute of Cognitive Neuroscience (with Prof. M. D. Rugg) and Wellcome Department of Imaging Neuroscience (with Prof. K. J Friston), University College London, UK.
-- September 1996 - September 2001. Research Engineer, CRC, ULiège.
+- September 1996 - September 2001. PhD Research Engineer, CRC, ULiège.
 
 ### Diplomas:
 - January 2001, PhD in Applied Sciences (supervised by Prof. P. Maquet and Prof F.X. Litt), with “Summa cum laude”, ULiège. 
@@ -111,7 +113,7 @@ Since 2008, supervision of 18 PhD students thesis in engineering and biomedical 
 - F. Thomas, [“Continuous Glucose Monitoring for Optimising Glycaemic Performance in Individuals without Diabetes”](http://hdl.handle.net/2268/211314), 2013-2017, co-sup. with Dr. T. Desaives (Dept of Physics, ULiege);
 - M. Wehenkel, [“Characterization of neurodegenerative diseases with tree ensemble methods: the case of Alzheimer’s disease.”](http://hdl.handle.net/2268/227796), 2014-2018, co-sup. with Prof. P. Geurts (Dept of Electrical Engineering and Computer Science, ULiege), FNRS grant;
 - G. Antonopoulos, [“Machine Learning applications for characterizing brain-damaged patients’ level of consciousness.”](http://hdl.handle.net/2268/249874), 2013-2019, co-sup. with Prof. S. Laureys (GIGA Consciousness, ULiege);
-- M. Abdelrahman, [“Personal dosimetry of workers without a physical dosimeter using computational methods.”](http://hdl.handle.net/2268/249649), 2016-2020, co-sup. with Prof. A. Seret (Dept of Physics, ULiege) and Dr F. Vanhavere (SCK-CEN, Belgium), SCK-CEN grant;
+- M. Abdelrahman, [“Personal dosimetry of workers without a physical dosimeter using computational methods.”](http://hdl.handle.net/2268/249649), 2016-2020, co-sup. with Prof. A. Seret (Dept of Physics, ULiege) and Dr F. Vanhavere (SCK-CEN, Belgium), SCK-CEN grant.
 
 #### Ongoing thesis (4)
 - N. Vandeleene, “Identification of lesional brain tissues from quantitative Magnetic Resonance Imaging (qMRI) data”. 2018-2022 (expected), FRIA grant.
@@ -128,22 +130,28 @@ Since 2008:
 - Dr. Fermin Segovia, October 2012 till September 2014. ULiège Postdoc-in grant, “Multivariate data-driven diagnosis of Parkinson's and Alzheimer's disease using pattern recognition techniques”.
 - Dr. Nikita Beliy, October 2018 till September 2021. EoS "FNRS" Memodyn grant, “Data management and curation”.
 
-## Scientific output
+## Scientific impact
 
 ### Publications
 
-All the publications are **available in open access** via [Orbi@ULiège](http://orbi.uliege.be/ph-search?uid=u016440). <br>
-The list of publications are available on the usual platforms such as [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ), [ORCID](https://orcid.org/0000-0002-4990-425X), and [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552 ).
+All the publications are **available in open access** via [Orbi@ULiège](http://orbi.uliege.be/ph-search?uid=u016440) and here is my [ORCID](https://orcid.org/0000-0002-4990-425X) page.
+
+The list of publications and publication indexes are also available on the usual platforms such as [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) and [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552 ).
 
 ### Software developments
 
 Contribution to existing toolboxes
-- ["Statistical Parametric Mapping", SPM](https://www.fil.ion.ucl.ac.uk/spm/). Member of the SPM toolbox development team since 1998. 
-- ["fMRI Artefact rejection and Sleep Scoring Toolbox", FASST](https://people.montefiore.uliege.be/phillips/FASST.html). Head of the development team for FASST since 2007, ULiège. 
-- ["Pattern Recognition in Neuroimaging Toolbox", PRoNTo](http://www.mlnl.cs.ucl.ac.uk/pronto/). Member of the PRoNTo development team since 2011. 
-- ["Histological MRI", hMRI](http://hmri.info), toolbox. Member of the development team since 2016.
+- ["Statistical Parametric Mapping", SPM](https://www.fil.ion.ucl.ac.uk/spm/). 
+<br>Member of the SPM toolbox development team since 1998. 
+- ["fMRI Artefact rejection and Sleep Scoring Toolbox", FASST](https://people.montefiore.uliege.be/phillips/FASST.html). 
+<br>Head of the development team for FASST since 2007, ULiège. 
+- ["Pattern Recognition in Neuroimaging Toolbox", PRoNTo](http://www.mlnl.cs.ucl.ac.uk/pronto/). <br>Member of the PRoNTo development team since 2011. 
+- ["Histological MRI" - hMRI toolbox](http://hmri.info). Quantitative MRI modelling and processing.
+<br>Member of the development team since 2016.
+- ["*shamo*"](https://cyclotronresearchcentre.github.io/shamo/index.html) (Stochastic HeAd MOdelling), CRC project, since 2019.
+- ["*BIDSme*"](https://github.com/CyclotronResearchCentre/bidsme). Multimodal dataset BIDS-ification, CRC project, since 2019.
 
-Other bits of code produced at the CRC/GIGA-research are distributed under an open source license via the Cyclotron Research Centre [GitHub](https://github.com/CyclotronResearchCentre) or [GitLab](https://gitlab.uliege.be/CyclotronResearchCentre) platforms. <br>
+Other bits of code produced at the CRC/GIGA-research are distributed under an open source license via the Cyclotron Research Centre's [GitHub](https://github.com/CyclotronResearchCentre) or [GitLab](https://gitlab.uliege.be/CyclotronResearchCentre) platforms. <br>
 Note that the latter is hosted on the ULiege server.
 
 ### National and international collaborations
@@ -165,22 +173,25 @@ Note that the latter is hosted on the ULiege server.
 ## Community support
 
 ### Reviewing and editing
-- Member of several Ph.D. jury evaluation committees
+- Member of several Ph.D. evaluation committees
     - in Belgium: at ULiège (in the Faculty of Applied Sciences, Psychology, and Medicine), University of Ghent (Belgium);
     - abroad: Maastricht University (Netherlands), INRIA (France), University of Birmingham (UK), Kings College London (UK);
 - 2020 - now. member of the Editorial Board for the OA journal ["Aperture"](https://ohbm-aperture.github.io/) driven by [OHBM](https://www.humanbrainmapping.org/);
+- 2021 - now. Associate Editor for the journal [Frontiers in Neuroscience - Brain Imaging Methods](https://www.frontiersin.org/journals/all/sections/brain-imaging-methods)
 - 2017 - now. handling Editor for the journal ["Scientific Reports"](https://www.nature.com/srep/).
 - Article reviewing for several journal such as NeuroImage, Human Brain Mapping, Frontiers in Neuroscience, Scientific Reports,...
 - Grant reviewing for
+    - the University of Strasbourg’s “Initiative of Excellence”, for the “Interdisciplinary Thematic Institutes” (ITI) call (2019).
     - European Commission, H2020, [Marie Skłodowska-Curie Actions Individual Fellowships (MSCA-IF)](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) call in 2020.
     - [Cluster for Individualized Immune Intervention (Ci3)](https://ci-3.de/), [Digital Enterprise Innovations for Bioimaging, Biosensing and Biobanking Industries (DIGI-B-CUBE)](https://ci-3.de/digibcube/) call (2019-2022).
+- Abstract and symposium reviewing for the [Organization for Human Brain Mapping (OHBM)](https://www.humanbrainmapping.org/) annual meetings.
 
 ### Service to the community:
-- 2018 - 2021. Ad hoc member of the “Program Committee”, Organization for Human Brain Mapping. 
-- 2017 - now. Board member of the “Belgian Society for Neuroscience”.
+- 2018 - 2021. Ad hoc member of the “Program Committee”, [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/): keynote speakers, symposium and oral sessions selection. 
+- 2017 - now. Board member of the [“Belgian Society for Neuroscience”](https://bsn.ulb.be/).
 - 2016 - now. Representative of the GIGA scientific staff on the ["Conseil du Corps Scientifique"](http://labos.ulg.ac.be/ccs/), ULiège.
-- *De facto* member of the Faculty Council, Faculty of Applied Sciences, ULiège.
-- Former member of several commissions for the designation of new Academics, Faculty of Applied Sciences, ULiège.
+- *de facto* member of the Academic Council, Faculty of Applied Sciences, ULiège.
+- former member of several commissions for the designation of new Academics, [Faculty of Applied Sciences](https://www.facsa.uliege.be/), ULiège.
 - 2017 - 2018. Member of the “Communication Committee”, Organization for Human Brain Mapping. 
 
 
