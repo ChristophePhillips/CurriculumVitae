@@ -23,7 +23,8 @@ Note:<br>
 CRC = Cyclotron Research Centre; ULiège = University of Liège, Belgium.
 
 ### Career
-- October 2015 – now. FRS-FNRS Senior Research Associate, GIGA CRC *in vivo* imaging, ULiège. 
+- September 2021 – now. FRS-FNRS Research Director, GIGA CRC *in vivo* imaging, ULiège. 
+- October 2015 – September 2021. FRS-FNRS Senior Research Associate, GIGA CRC *in vivo* imaging, ULiège. 
 - October 2015 – now. Associate Professor, Department of Electrical Engineering and Computer Science, ULiège. 
 - March 2012 – now. Honorary Research Associate, Machine Learning and Neuroimaging Lab, Department of Computer Science, University College London, UK. 
 - October 2008 – September 2015. Adjunct Assistant Professor, Department of Electrical Engineering and Computer Science, ULiège. 
@@ -136,7 +137,9 @@ Since 2008:
 
 All the publications are **available in open access** via [Orbi@ULiège](http://orbi.uliege.be/ph-search?uid=u016440) and here is my [ORCID](https://orcid.org/0000-0002-4990-425X) page.
 
-The list of publications and publication indexes are also available on the usual platforms such as [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) and [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552 ).
+The list of publications and publication indexes are also available on the usual platforms such as [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) and [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552).
+
+A short selection of papers and talks is listed [here](https://hackmd.io/@cphillips/rkB08JWju).
 
 ### Software developments
 
@@ -163,7 +166,7 @@ Note that the latter is hosted on the ULiege server.
 - 2009-2015, ULiège representative for the Marie Curie International Training Network (MC-ITN) “Methods in Neuroimaging”. Along the CRC (ULiège), the network also involves: the Maastricht Brain Imaging Centre (Maastricht University, the Netherlands), the Research Centre Jülich (Germany) and GSK Clinical Imaging Centre, UK. <br>
   Seven Ph.D. theses in ULiège-UMaastricht co-diplomation .
 
-### Scientific prizes:
+### Scientific prizes
 - “Prix Janine et Jacques Delruelle” 2014 (from the “Fondation Médicale Reine Elisabeth”) with Prof. Maquet for our work on “Characterization of human sleep/wake regulation using multimodal functional imaging in population stratified on the polymorphism of PERIOD3 gene”.
 - “Marcel Linsman Prize” 2005 (from “l'Association des Ingénieurs sortis de l'Université de Liège a.s.b.l.”) for my work in biomedical engineering.
 - “Association of the university of Liège friends“ Prize 2003, for the PhD thesis : “Source estimation in EEG: Combining anatomical and functional constraints”.
