@@ -23,7 +23,7 @@ Note:<br>
 CRC = Cyclotron Research Centre; ULiège = University of Liège, Belgium.
 
 ### Career
-- September 2021 – now. FRS-FNRS Research Director, GIGA CRC *in vivo* imaging, ULiège. 
+- October 2021 – now. FRS-FNRS Research Director, GIGA CRC *in vivo* imaging, ULiège. 
 - October 2015 – September 2021. FRS-FNRS Senior Research Associate, GIGA CRC *in vivo* imaging, ULiège. 
 - October 2015 – now. Associate Professor, Department of Electrical Engineering and Computer Science, ULiège. 
 - March 2012 – now. Honorary Research Associate, Machine Learning and Neuroimaging Lab, Department of Computer Science, University College London, UK. 
