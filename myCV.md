@@ -10,23 +10,26 @@ Contact details are available in the [University of Liège directory](https://ww
 
 [TOC]
 
+Note:<br> 
+- CRC = Cyclotron Research Centre; 
+- ULiège = University of Liège, Belgium.
+
 ## Current position
-**[FRS-FNRS](https://www.frs-fnrs.be/) Senior Research Associate** & **Associate Professor** at the [University of Liège](https://www.uliege.be/), Belgium:
-- [GIGA Institute](https://www.giga.uliege.be/) in the "[*In Silico* Medicine](https://www.gigainsilico.uliege.be/)" and "[CRC *In Vivo* Imaging](https://www.gigacrc.uliege.be/)" research units;
-- [Department of Electrical Engineering and Computer Science](https://www.montefiore.uliege.be/cms/c_3482888/en/montefiore-institute), aka. "Montefiore Institute", [School of Engineering](](https://www.frs-fnrs.be/)).
+
+**[University of Liège](https://www.uliege.be/)**, Belgium:
+- **[FRS-FNRS](https://www.frs-fnrs.be/) Senior Research Associate**, [GIGA Institute](https://www.giga.uliege.be/) in the "[CRC *In Vivo* Imaging](https://www.gigacrc.uliege.be/)" and "[*In Silico* Medicine](https://www.gigainsilico.uliege.be/)" research units;
+- **Associate Professor**, [Department of Electrical Engineering and Computer Science](https://www.montefiore.uliege.be/cms/c_3482888/en/montefiore-institute), aka. "Montefiore Institute", [School of Engineering](https://www.facsa.uliege.be/).
 
 Honorary Research Associate, [Machine Learning and neuroimaging Lab](http://www.mlnl.cs.ucl.ac.uk/), [Centre for Medical Image Computing](https://www.ucl.ac.uk/medical-image-computing/), University College London, UK. 
 
 ## Background information
 
-Note:<br> 
-CRC = Cyclotron Research Centre; ULiège = University of Liège, Belgium.
 
 ### Career
 - October 2021 – now. FRS-FNRS Research Director, GIGA CRC *in vivo* imaging, ULiège. 
-- October 2015 – September 2021. FRS-FNRS Senior Research Associate, GIGA CRC *in vivo* imaging, ULiège. 
 - October 2015 – now. Associate Professor, Department of Electrical Engineering and Computer Science, ULiège. 
 - March 2012 – now. Honorary Research Associate, Machine Learning and Neuroimaging Lab, Department of Computer Science, University College London, UK. 
+- October 2015 – September 2021. FRS-FNRS Senior Research Associate, GIGA CRC *in vivo* imaging, ULiège. 
 - October 2008 – September 2015. Adjunct Assistant Professor, Department of Electrical Engineering and Computer Science, ULiège. 
 - October 2006 – September 2015. FRS-FNRS Research Associate, CRC, ULiège. 
 - October 2004 – September 2006. Postdoctoral research engineer, Department of Electrical Engineering and Computer Science, ULiège. 
@@ -45,7 +48,7 @@ CRC = Cyclotron Research Centre; ULiège = University of Liège, Belgium.
 
 ### ULiege courses
 
-- [“Medical imaging”](https://www.programmes.uliege.be/cocoon/20202021/en/cours/GBIO0008-2.html), master in biomedical engineering & electrical engineering (5 ECTS), Faculty of Applied Sciences, ULiège, since 2008.
+- [“Medical imaging”](https://www.programmes.uliege.be/cocoon/20202021/en/cours/GBIO0008-2.html), master in biomedical engineering & electrical engineering (5 ECTS), School of Engineering, ULiège, since 2008.
 - [“Introduction to medical statistics”](https://www.programmes.uliege.be/cocoon/20202021/en/cours/STAT0722-1.html), masters in physics and biomedical engineering (2 ECTS), Faculty of Sciences, ULiège, since 2002.
 - ["Introduction to scientific computing"](https://indico.giga.uliege.be/event/146/) course, [GIGA Doctorate School](https://www.gigadoctoralschool.uliege.be/cms/c_5468932/en/gigadoctoralschool), [GIGA Institute](https://www.giga.uliege.be/). Course organized in 2018, [2019](https://indico.giga.uliege.be/event/36/) and [2020](https://indico.giga.uliege.be/event/146/).
 
@@ -177,8 +180,8 @@ Note that the latter is hosted on the ULiege server.
 
 ### Reviewing and editing
 - Member of several Ph.D. evaluation committees
-    - in Belgium: at ULiège (in the Faculty of Applied Sciences, Psychology, and Medicine), University of Ghent (Belgium);
-    - abroad: Maastricht University (Netherlands), INRIA (France), University of Birmingham (UK), Kings College London (UK);
+    - in Belgium: at ULiège (in the School of Engineering, Psychology, and Medicine) and University of Ghent, Belgium;
+    - abroad: Maastricht University (Netherlands), INRIA (France), University of Birmingham and Kings College London (UK);
 - 2020 - now. member of the Editorial Board for the OA journal ["Aperture"](https://ohbm-aperture.github.io/) driven by [OHBM](https://www.humanbrainmapping.org/);
 - 2021 - now. Associate Editor for the journal [Frontiers in Neuroscience - Brain Imaging Methods](https://www.frontiersin.org/journals/all/sections/brain-imaging-methods)
 - 2017 - now. handling Editor for the journal ["Scientific Reports"](https://www.nature.com/srep/).
@@ -193,8 +196,8 @@ Note that the latter is hosted on the ULiege server.
 - 2018 - 2021. Ad hoc member of the “Program Committee”, [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/): keynote speakers, symposium and oral sessions selection. 
 - 2017 - now. Board member of the [“Belgian Society for Neuroscience”](https://bsn.ulb.be/).
 - 2016 - now. Representative of the GIGA scientific staff on the ["Conseil du Corps Scientifique"](http://labos.ulg.ac.be/ccs/), ULiège.
-- *de facto* member of the Academic Council, Faculty of Applied Sciences, ULiège.
-- former member of several commissions for the designation of new Academics, [Faculty of Applied Sciences](https://www.facsa.uliege.be/), ULiège.
+- 2015 - now. *De facto* member of the Academic Council, School of Engineering, ULiège.
+- former member of several commissions for the designation of new Academics, School of Engineering, ULiège.
 - 2017 - 2018. Member of the “Communication Committee”, Organization for Human Brain Mapping. 
 
 
