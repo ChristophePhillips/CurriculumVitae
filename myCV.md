@@ -16,8 +16,8 @@ Note:<br>
 
 ## Current position
 
-**[University of Liège](https://www.uliege.be/)**, Belgium:
-- **[FRS-FNRS](https://www.frs-fnrs.be/) Senior Research Associate**, [GIGA Institute](https://www.giga.uliege.be/) in the "[CRC *In Vivo* Imaging](https://www.gigacrc.uliege.be/)" and "[*In Silico* Medicine](https://www.gigainsilico.uliege.be/)" research units;
+at the **[University of Liège](https://www.uliege.be/)**, Belgium:
+- **[FRS-FNRS](https://www.frs-fnrs.be/) Research Director**, [GIGA Institute](https://www.giga.uliege.be/) in the "[CRC *In Vivo* Imaging](https://www.gigacrc.uliege.be/)" and "[*In Silico* Medicine](https://www.gigainsilico.uliege.be/)" research units;
 - **Associate Professor**, [Department of Electrical Engineering and Computer Science](https://www.montefiore.uliege.be/cms/c_3482888/en/montefiore-institute), aka. "Montefiore Institute", [School of Engineering](https://www.facsa.uliege.be/).
 
 Honorary Research Associate, [Machine Learning and neuroimaging Lab](http://www.mlnl.cs.ucl.ac.uk/), [Centre for Medical Image Computing](https://www.ucl.ac.uk/medical-image-computing/), University College London, UK. 
@@ -41,7 +41,7 @@ Honorary Research Associate, [Machine Learning and neuroimaging Lab](http://www.
 ### Diplomas:
 - January 2001, PhD in Applied Sciences (supervised by Prof. P. Maquet and Prof F.X. Litt), with “Summa cum laude”, ULiège. 
     Title: [Source estimation in EEG: Combining anatomical and functional constraints.](http://hdl.handle.net/2268/156112)
-- June 1996, Master in Electrical Engineering (Electronics), with “Summa cum laude”, ULiège. 
+- June 1996, Master in Electrical Engineering (or. Electronics), with “Summa cum laude”, ULiège. 
     Title: “3D image reconstruction from cone-beam projections”.
 
 ## Teaching experience
@@ -100,7 +100,7 @@ Since 2017, 4 internships at the CRC:
 - July-August 2017, Hao Hu, Polytech Nantes (Frances), "Sleep EEG visualisation";
 - May-August 2018, Aubin Ardois, Polytech Nantes (Frances), "Actigraphy data visualization and analysis", co-supervision with Dr. G. Hammad;
 - May-August 2019, Benjamin Leroy, Polytech Nantes (Frances), "Actigraphy data standardisation, description and storage", co-supervision with Dr. G. Hammad;
-- February-March 2020, Marwa Jiyar, Haute Ecole Léonard de Vinci, Bruxelles, "Apports et différence d'un champ magnétique 7 Tesla et 3 Tesla en IRM dans la recherche fondamentale", co-supervision with the MR Physics team;.
+- February-March 2020, Marwa Jiyar, Haute Ecole Léonard de Vinci, Bruxelles, "Apports et différence d'un champ magnétique 7 Tesla et 3 Tesla en IRM dans la recherche fondamentale", co-supervision with the MR Physics team.
 
 ### PhD students in applied sciences and biomedical science 
 Since 2008, supervision of 18 PhD students thesis in engineering and biomedical science.
@@ -193,10 +193,11 @@ Note that the latter is hosted on the ULiege server.
 - Abstract and symposium reviewing for the [Organization for Human Brain Mapping (OHBM)](https://www.humanbrainmapping.org/) annual meetings.
 
 ### Service to the community:
-- 2018 - 2021. Ad hoc member of the “Program Committee”, [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/): keynote speakers, symposium and oral sessions selection. 
+- 2021 - now. Secretary of the academic board, Department of Electrical Engineering and Computer Science, ULiège.
 - 2017 - now. Board member of the [“Belgian Society for Neuroscience”](https://bsn.ulb.be/).
 - 2016 - now. Representative of the GIGA scientific staff on the ["Conseil du Corps Scientifique"](http://labos.ulg.ac.be/ccs/), ULiège.
 - 2015 - now. *De facto* member of the Academic Council, School of Engineering, ULiège.
+- 2018 - 2021. Ad hoc member of the “Program Committee”, [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/): keynote speakers, symposium and oral sessions selection. 
 - former member of several commissions for the designation of new Academics, School of Engineering, ULiège.
 - 2017 - 2018. Member of the “Communication Committee”, Organization for Human Brain Mapping. 
 
