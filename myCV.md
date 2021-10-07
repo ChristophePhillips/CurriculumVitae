@@ -4,6 +4,9 @@ tags: CV
 
 # Curriculum Vitae
 
+[![hackmd-github-sync-badge](https://hackmd.io/c_VwMvUuRlCzaj1btzZR7g/badge)](https://hackmd.io/c_VwMvUuRlCzaj1btzZR7g)
+
+
 **Christophe Phillips**, Ir., Ph.D.
 
 Contact details are available in the [University of Liège directory](https://www.uliege.be/cms/c_9054334/en/directory/?uid=U016440).
@@ -63,7 +66,7 @@ Honorary Research Associate, [Machine Learning and neuroimaging Lab](http://www.
     - ["SPM - biennial Edinburgh residential course"](https://www.ed.ac.uk/clinical-sciences/edinburgh-imaging/education-teaching/short-courses/all-our-courses/spm-biennial-edinburgh-residential-course) from 2013 till 2019;
     - neuro-imaging workshop at UCLouvain, Belgium, 2019;
     - courses in Montreal (Canada), Nara (Japan) and Shenzhen (China), as scientific coordinator and speaker;
-- [“Pattern Recognition for Neuroimaging Toolbox” (PRoNTo)](http://www.mlnl.cs.ucl.ac.uk/pronto/) yearly courses, Department of Computer Science, University College London, UK, since 2012. 
+- [“Pattern Recognition for Neuroimaging Toolbox” (PRoNTo)](http://www.mlnl.cs.ucl.ac.uk/pronto/) yearly courses, Department of Computer Science, University College London, UK, 2012-2018 & 2021 (online). 
 - [“Pattern Recognition for Neuroimaging”](https://cyclotronresearchcentre.github.io/OHBM2020_ML4NI/) one-day Educational Course, annual Organization for Human Brain Mapping meetings, 2014-2018 & 2020.
 
 
@@ -93,7 +96,7 @@ Since 2005, supervision of 22 students in (biomedical) engineering for their mas
 - E. Beckers, ["MRI contrast in the locus cœruleus: Optimisation with multi-compartment spoiled gradient echo imaging"](http://hdl.handle.net/2268.2/8842), 2020, in collaboration with Prof. M. Callaghan, University College London, UK;
 - J. Coline, ["Tomosynthesis Imaging: Principles, Simulations and Practical Performance"](http://hdl.handle.net/2268.2/9047), 2020, in collaboration with [X-Ray Imaging Solutions](https://www.xris.eu/);
 - E. Jamotton, ["Influence of pressure on Terahertz imaging of fresh animal tissues"](http://hdl.handle.net/2268.2/10705), 2020, in collaboration with Dr M. Boutaayamou, Dept of Electrical Engineering and Computer Science, ULiege;
-- S. Bonghi, "Quantitative MRI characterization of brain tissues in stroke patients", planned for 2021, in collaboration with Profs M. Callaghan & J. Crinion, University College London, UK.
+- S. Bonghi, ["Quantitative MRI characterization of brain tissues in stroke patients"](http://hdl.handle.net/2268.2/13221), 2021, in collaboration with Profs M. Callaghan & J. Crinion, University College London, UK.
 
 ### Internships
 Since 2017, 4 internships at the CRC:
@@ -193,6 +196,7 @@ Note that the latter is hosted on the ULiege server.
 - Abstract and symposium reviewing for the [Organization for Human Brain Mapping (OHBM)](https://www.humanbrainmapping.org/) annual meetings.
 
 ### Service to the community:
+- 2021-2022. [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/) "Virtual Integration Task" co-chair, for the hybrid [OHBM 2022 meeting](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3298).
 - 2021 - now. Secretary of the academic board, Department of Electrical Engineering and Computer Science, ULiège.
 - 2017 - now. Board member of the [“Belgian Society for Neuroscience”](https://bsn.ulb.be/).
 - 2016 - now. Representative of the GIGA scientific staff on the ["Conseil du Corps Scientifique"](http://labos.ulg.ac.be/ccs/), ULiège.
