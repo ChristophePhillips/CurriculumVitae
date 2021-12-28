@@ -6,7 +6,6 @@ tags: CV
 
 [![hackmd-github-sync-badge](https://hackmd.io/c_VwMvUuRlCzaj1btzZR7g/badge)](https://hackmd.io/c_VwMvUuRlCzaj1btzZR7g)
 
-
 **Christophe Phillips**, Ir., Ph.D.
 
 Contact details are available in the [University of Liège directory](https://www.uliege.be/cms/c_9054334/en/directory/?uid=U016440).
@@ -51,9 +50,10 @@ Honorary Research Associate, [Machine Learning and neuroimaging Lab](http://www.
 
 ### ULiege courses
 
-- [“Medical imaging”](https://www.programmes.uliege.be/cocoon/20202021/en/cours/GBIO0008-2.html), master in biomedical engineering & electrical engineering (5 ECTS), School of Engineering, ULiège, since 2008.
-- [“Introduction to medical statistics”](https://www.programmes.uliege.be/cocoon/20202021/en/cours/STAT0722-1.html), masters in physics and biomedical engineering (2 ECTS), Faculty of Sciences, ULiège, since 2002.
-- ["Introduction to scientific computing"](https://indico.giga.uliege.be/event/146/) course, [GIGA Doctorate School](https://www.gigadoctoralschool.uliege.be/cms/c_5468932/en/gigadoctoralschool), [GIGA Institute](https://www.giga.uliege.be/). Course organized in 2018, [2019](https://indico.giga.uliege.be/event/36/) and [2020](https://indico.giga.uliege.be/event/146/).
+- [*Medical imaging*](https://www.programmes.uliege.be/cocoon/20202021/en/cours/GBIO0008-2.html), master in biomedical engineering & electrical engineering (5 ECTS), School of Engineering, ULiège, since 2008.
+- [*Introduction to medical statistics*](https://www.programmes.uliege.be/cocoon/20202021/en/cours/STAT0722-1.html), masters in physics and biomedical engineering (2 ECTS), Faculty of Sciences, ULiège, since 2002.
+- [*Eléments d'informatique médicale*](http://progcours.ulg.ac.be/cocoon/cours/RADI2004-4.html), master in nuclear medicine, Faculty of Medicine, ULiège, since 2021.
+- [*Introduction to scientific computing*](https://indico.giga.uliege.be/event/146/) course, [GIGA Doctorate School](https://www.gigadoctoralschool.uliege.be/cms/c_5468932/en/gigadoctoralschool), [GIGA Institute](https://www.giga.uliege.be/). Course organized in 2018, [2019](https://indico.giga.uliege.be/event/36/), [2020](https://indico.giga.uliege.be/event/146/) (with video recordings of the last lectures) and [2021](https://indico.giga.uliege.be/event/264/).
 
 ### Local and national workshops
 - presentations at the GIGA CRC *in vivo* imaging research unit seminars, ULiege;
@@ -80,7 +80,7 @@ Since 2005, supervision of 22 students in (biomedical) engineering for their mas
 - Y. Leclercq, “Correction of the ballistocardiographic artifact from EEG data acquired in the MRI scanner: An introduction of a cICA-based correction algorithm”, 2007;
 - J. Schrouff, “Mathematical characterisation of slow waves in slow wave sleep from EEG data.” 2009;
 - X. Mouvet, “BOLD effect sensitivity in fMRI: integrative modeling and optimization.” 2010;
-- N. Partoune, “Development of a brain-computer-interface for diagnostic purposes”, 2010;
+- N. Partoune, “Development of a brain-computer-interface for diagnostic purposes.”, 2010;
 - S. Furlan, “Spatial realignment of diffusion weighted magnetic resonance images.” 2011;
 - O. Herbiet, “Caractérisation de l’effet de volume partiel en imagerie par emission de positrons chez les petits animaux.” 2011;
 - J.-M. Duthoo, “Développement d'une interface cerveau-ordinateur basée sur l'électroencéphalographie et l'électromyographie à des fins de diagnostique.” 2012;
@@ -97,6 +97,7 @@ Since 2005, supervision of 22 students in (biomedical) engineering for their mas
 - J. Coline, ["Tomosynthesis Imaging: Principles, Simulations and Practical Performance"](http://hdl.handle.net/2268.2/9047), 2020, in collaboration with [X-Ray Imaging Solutions](https://www.xris.eu/);
 - E. Jamotton, ["Influence of pressure on Terahertz imaging of fresh animal tissues"](http://hdl.handle.net/2268.2/10705), 2020, in collaboration with Dr M. Boutaayamou, Dept of Electrical Engineering and Computer Science, ULiege;
 - S. Bonghi, ["Quantitative MRI characterization of brain tissues in stroke patients"](http://hdl.handle.net/2268.2/13221), 2021, in collaboration with Profs M. Callaghan & J. Crinion, University College London, UK.
+- A. Debor, "Development of a robot interface for cognitive experimental tasks in human functional magnetic resonance imaging", 2022, in collaboration with Prof. P. Bellec, Université de Montreal, Montreal, Canada
 
 ### Internships
 Since 2017, 4 internships at the CRC:
@@ -135,7 +136,12 @@ Since 2008, supervision of 18 PhD students thesis in engineering and biomedical 
 ### Postdoctoral researchers
 Since 2008:
 - Dr. Fermin Segovia, October 2012 till September 2014. ULiège Postdoc-in grant, “Multivariate data-driven diagnosis of Parkinson's and Alzheimer's disease using pattern recognition techniques”.
-- Dr. Nikita Beliy, October 2018 till September 2021. EoS "FNRS" Memodyn grant, “Data management and curation”.
+- Dr. Nikita Beliy, October 2018 till September 2022. EoS "FNRS" Memodyn grant, “Data management and curation”.
+
+
+### Other traing, supervision & evalaution duties
+
+These are lister on a [separate page](https://hackmd.io/1xZiY7fLRzmrIZPnjcnW4w#Training-activities-and-supervision).
 
 ## Scientific impact
 
@@ -178,6 +184,8 @@ Note that the latter is hosted on the ULiege server.
 - “Association of the university of Liège friends“ Prize 2003, for the PhD thesis : “Source estimation in EEG: Combining anatomical and functional constraints”.
 - Siemens Belgium Prize 1997 in medical imaging for the final project: “3D image reconstruction from cone-beam projections”.
 
+### Other activities
+These are listed on a [separate page](https://hackmd.io/sZeTzlxSTuenUpUpN2xNng#Scientific-activities).
 
 ## Community support
 
