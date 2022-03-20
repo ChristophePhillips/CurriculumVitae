@@ -97,7 +97,8 @@ Since 2005, supervision of 22 students in (biomedical) engineering for their mas
 - J. Coline, ["Tomosynthesis Imaging: Principles, Simulations and Practical Performance"](http://hdl.handle.net/2268.2/9047), 2020, in collaboration with [X-Ray Imaging Solutions](https://www.xris.eu/);
 - E. Jamotton, ["Influence of pressure on Terahertz imaging of fresh animal tissues"](http://hdl.handle.net/2268.2/10705), 2020, in collaboration with Dr M. Boutaayamou, Dept of Electrical Engineering and Computer Science, ULiege;
 - S. Bonghi, ["Quantitative MRI characterization of brain tissues in stroke patients"](http://hdl.handle.net/2268.2/13221), 2021, in collaboration with Profs M. Callaghan & J. Crinion, University College London, UK.
-- A. Debor, "Development of a robot interface for cognitive experimental tasks in human functional magnetic resonance imaging", 2022, in collaboration with Prof. P. Bellec, Université de Montreal, Montreal, Canada
+- A. Debor, "Development of a robot interface for cognitive experimental tasks in human functional magnetic resonance imaging", 2022, in collaboration with Prof. P. Bellec, Université de Montreal, Montreal, Canada.
+- L. Backes, "Diagnosis of Alzheimer’s Disease via 3D Convolutional Neural Network", 2022, co-supervision with Prof. G. Louppe.
 
 ### Internships
 Since 2017, 4 internships at the CRC:
@@ -118,7 +119,7 @@ Since 2008, supervision of 18 PhD students thesis in engineering and biomedical 
 - B. Guillaume, [“Accurate non-iterative modelling and inference of longitudinal neuroimaging data.”](http://hdl.handle.net/2268/186284), 2010-2015, co-sup. with Prof T. Nichols (Warwick University, UK), MC-ITN grant.
 - K. Möllenhof, [“Novel methods for the detection of functional brain activity using 17O MR.”](http://hdl.handle.net/2268/199125), 2012-2016, co-sup with Prof J. Shah (Jülich Research Centre, Germany), MC-ITN grant;
 - D. Coppieters, [“Detection of spontaneous pattern of activities in EEG/MEG.”](http://hdl.handle.net/2268/203832), 2012-2016, FRIA grant;
-- F. Thomas, [“Continuous Glucose Monitoring for Optimising Glycaemic Performance in Individuals without Diabetes”](http://hdl.handle.net/2268/211314), 2013-2017, co-sup. with Dr. T. Desaives (Dept of Physics, ULiege);
+- F. Thomas, [“Continuous Glucose Monitoring for Optimising Glycaemic Performance in Individuals without Diabetes”](http://hdl.handle.net/2268/211314), 2013-2017, co-sup. with Dr. T. Desaives (Dept of Electrical Engineering and Computer Science, ULiege, & Dept of Mechanical Engineering, the University of Canterbury, New Zealand );
 - M. Wehenkel, [“Characterization of neurodegenerative diseases with tree ensemble methods: the case of Alzheimer’s disease.”](http://hdl.handle.net/2268/227796), 2014-2018, co-sup. with Prof. P. Geurts (Dept of Electrical Engineering and Computer Science, ULiege), FNRS grant;
 - G. Antonopoulos, [“Machine Learning applications for characterizing brain-damaged patients’ level of consciousness.”](http://hdl.handle.net/2268/249874), 2013-2019, co-sup. with Prof. S. Laureys (GIGA Consciousness, ULiege);
 - M. Abdelrahman, [“Personal dosimetry of workers without a physical dosimeter using computational methods.”](http://hdl.handle.net/2268/249649), 2016-2020, co-sup. with Prof. A. Seret (Dept of Physics, ULiege) and Dr F. Vanhavere (SCK-CEN, Belgium), SCK-CEN grant.
@@ -179,10 +180,10 @@ Note that the latter is hosted on the ULiege server.
   Seven Ph.D. theses in ULiège-UMaastricht co-diplomation .
 
 ### Scientific prizes
-- “Prix Janine et Jacques Delruelle” 2014 (from the “Fondation Médicale Reine Elisabeth”) with Prof. Maquet for our work on “Characterization of human sleep/wake regulation using multimodal functional imaging in population stratified on the polymorphism of PERIOD3 gene”.
-- “Marcel Linsman Prize” 2005 (from “l'Association des Ingénieurs sortis de l'Université de Liège a.s.b.l.”) for my work in biomedical engineering.
-- “Association of the university of Liège friends“ Prize 2003, for the PhD thesis : “Source estimation in EEG: Combining anatomical and functional constraints”.
-- Siemens Belgium Prize 1997 in medical imaging for the final project: “3D image reconstruction from cone-beam projections”.
+- 2014, “Prix Janine et Jacques Delruelle” (from the “Fondation Médicale Reine Elisabeth”) with Prof. Maquet for our work on “Characterization of human sleep/wake regulation using multimodal functional imaging in population stratified on the polymorphism of PERIOD3 gene”.
+- 2005 “Marcel Linsman Prize” (from “l'Association des Ingénieurs sortis de l'Université de Liège a.s.b.l.”) for my work in biomedical engineering.
+- 2003, “Association of the university of Liège friends“ Prize, for the PhD thesis : “Source estimation in EEG: Combining anatomical and functional constraints”.
+- 1997, Siemens Belgium Prize in medical imaging for the Master project: “3D image reconstruction from cone-beam projections”.
 
 ### Other activities
 These are listed on a [separate page](https://hackmd.io/sZeTzlxSTuenUpUpN2xNng#Scientific-activities).
@@ -193,7 +194,7 @@ These are listed on a [separate page](https://hackmd.io/sZeTzlxSTuenUpUpN2xNng#S
 - Member of several Ph.D. evaluation committees
     - in Belgium: at ULiège (in the School of Engineering, Psychology, and Medicine) and University of Ghent, Belgium;
     - abroad: Maastricht University (Netherlands), INRIA (France), University of Birmingham and Kings College London (UK);
-- 2020 - now. member of the Editorial Board for the OA journal ["Aperture"](https://ohbm-aperture.github.io/) driven by [OHBM](https://www.humanbrainmapping.org/);
+- 2020 - now. member of the Editorial Board for the OA journal ["Aperture Neuro"](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4100) driven by [OHBM](https://www.humanbrainmapping.org/);
 - 2021 - now. Associate Editor for the journal [Frontiers in Neuroscience - Brain Imaging Methods](https://www.frontiersin.org/journals/all/sections/brain-imaging-methods)
 - 2017 - now. handling Editor for the journal ["Scientific Reports"](https://www.nature.com/srep/).
 - Article reviewing for several journal such as NeuroImage, Human Brain Mapping, Frontiers in Neuroscience, Scientific Reports,...
