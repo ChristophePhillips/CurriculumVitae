@@ -127,8 +127,9 @@ Since 2008, supervision of 18 PhD students thesis in engineering and biomedical 
 #### Ongoing thesis (4)
 - N. Vandeleene, “Identification of lesional brain tissues from quantitative Magnetic Resonance Imaging (qMRI) data”. 2018-2022 (expected), FRIA grant.
 - M. Grignard, “Realistic electro-magnetic modeling of the head”. 2018-2022 (expected), co-sup. with Prof. C. Geuzaine (Dept of Electrical Engineering and Computer Science, ULiege); EoS FNRS "Memodyn" grant
-- E. Lavrova, “Quantitative Neuro-Imaging with Radiomics and Deep Learning in two main neurological diseases: Multiple Sclerosis and Stroke”. 2019-2023 (expected), co-sup. with Prof. E. Salmon (GIGA-CRC, ULiège) and Prof. P. Lambin (UMaastricht, Netherlands), “Imaging Valley” ULiège-UMaastricht grant.
-- S. Moallemian, "Multimodal analysis of biomarkers interactions to predict cognitive decline and risk for dementia". 2020-2024 (expected), co-sup. with Prof. C. Bastin (GIGA-CRC, ULiège), ARC grant.
+- E. Lavrova, “Quantitative Neuro-Imaging with Radiomics and Deep Learning in two main neurological diseases: Multiple Sclerosis and Stroke”. 2019-2023 (expected), co-sup. with Prof. E. Salmon (GIGA-CRC in vivo imaging, ULiège) and Prof. P. Lambin (UMaastricht, Netherlands), “Imaging Valley” ULiège-UMaastricht grant.
+- S. Moallemian, "Multimodal analysis of biomarkers interactions to predict cognitive decline and risk for dementia". 2020-2024 (expected), co-sup. with Prof. C. Bastin (GIGA-CRC in vivo imaging, ULiège), ARC grant.
+- S. de Haan, "Physiology-based mathematical modelling of sleep-wake regulation and it's association with hypothalamic subfield integrityin older adults". 2021-2025 (expected), co-sup. with Prof. C. Schmidt (GIGA-CRC in vivo imaging, ULiège), FRIA grant.
 
 #### Interrupted thesis (2)
 - Y. Leclercq, “Development of an EEG-based brain-computer-interface working in a MRI scanner”, 2008-2010, FRIA grant.
@@ -176,7 +177,7 @@ Note that the latter is hosted on the ULiege server.
 - [Prof. Dr Nikolaus Weiskopf](https://www.cbs.mpg.de/employees/weiskopf), Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany, and an international team for the development of the “histological MRI” toolbox.
 - [Prof. Dr Janaina Mourao-Miranda](https://iris.ucl.ac.uk/iris/browse/profile?upi=JMOUR63), Machine learning and Neuroimaging Lab, Department of Computer Science, University College London, UK.
 - [Prof Dr Karl J. Friston](https://www.fil.ion.ucl.ac.uk/~karl/) and [Prof Dr Martina Callaghan](https://iris.ucl.ac.uk/iris/browse/profile?upi=MCALL93), Wellcome Trust Centre for Neuroimaging, University College London, UK, for the development of SPM and “quantitative MRI methods”.
-- 2009-2015, ULiège representative for the Marie Curie International Training Network (MC-ITN) “Methods in Neuroimaging”. Along the CRC (ULiège), the network also involves: the Maastricht Brain Imaging Centre (Maastricht University, the Netherlands), the Research Centre Jülich (Germany) and GSK Clinical Imaging Centre, UK. <br>
+- 2009-2015, ULiège representative for the Marie Curie International Training Network (MC-ITN) “Methods in Neuroimaging”. Along the CRC (ULiège), the network also involves: the Maastricht Brain Imaging Centre (Maastricht University, the Netherlands), the Research Centre Jülich (Germany) and GSK Clinical Imaging Centre, UK. 
   Seven Ph.D. theses in ULiège-UMaastricht co-diplomation .
 
 ### Scientific prizes
