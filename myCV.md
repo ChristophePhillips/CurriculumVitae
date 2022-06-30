@@ -74,7 +74,7 @@ Honorary Research Associate, [Machine Learning and neuroimaging Lab](http://www.
 as main supervisor, otherwise stated
 
 ### Master students
-Since 2005, supervision of 22 students in (biomedical) engineering for their master's project:
+Since 2005, supervision of 24 students in (biomedical) engineering for their master's project:
 - A. Devalkeneer, “Segmentation EMS d'images 3D du cerveau”, 2005, co-supervisor with Prof. J. Verly;
 - G. Thielen, “Correction des artefacts d'enregistrement de signal électro-encéphalographique couplé à l'imagerie par résonance magnétique”, 2006, co-supervisor with Prof. J. Verly;
 - Y. Leclercq, “Correction of the ballistocardiographic artifact from EEG data acquired in the MRI scanner: An introduction of a cICA-based correction algorithm”, 2007;
@@ -124,7 +124,7 @@ Since 2008, supervision of 18 PhD students thesis in engineering and biomedical 
 - G. Antonopoulos, [“Machine Learning applications for characterizing brain-damaged patients’ level of consciousness.”](http://hdl.handle.net/2268/249874), 2013-2019, co-sup. with Prof. S. Laureys (GIGA Consciousness, ULiege);
 - M. Abdelrahman, [“Personal dosimetry of workers without a physical dosimeter using computational methods.”](http://hdl.handle.net/2268/249649), 2016-2020, co-sup. with Prof. A. Seret (Dept of Physics, ULiege) and Dr F. Vanhavere (SCK-CEN, Belgium), SCK-CEN grant.
 
-#### Ongoing thesis (4)
+#### Ongoing thesis (5)
 - N. Vandeleene, “Identification of lesional brain tissues from quantitative Magnetic Resonance Imaging (qMRI) data”. 2018-2022 (expected), FRIA grant.
 - M. Grignard, “Realistic electro-magnetic modeling of the head”. 2018-2022 (expected), co-sup. with Prof. C. Geuzaine (Dept of Electrical Engineering and Computer Science, ULiege); EoS FNRS "Memodyn" grant
 - E. Lavrova, “Quantitative Neuro-Imaging with Radiomics and Deep Learning in two main neurological diseases: Multiple Sclerosis and Stroke”. 2019-2023 (expected), co-sup. with Prof. E. Salmon (GIGA-CRC in vivo imaging, ULiège) and Prof. P. Lambin (UMaastricht, Netherlands), “Imaging Valley” ULiège-UMaastricht grant.
@@ -141,9 +141,9 @@ Since 2008:
 - Dr. Nikita Beliy, October 2018 till September 2022. EoS "FNRS" Memodyn grant, “Data management and curation”.
 
 
-### Other traing, supervision & evalaution duties
+### Other traing, supervision & evaluation duties
 
-These are lister on a [separate page](https://hackmd.io/1xZiY7fLRzmrIZPnjcnW4w#Training-activities-and-supervision).
+These are listed on a [separate page](https://hackmd.io/1xZiY7fLRzmrIZPnjcnW4w#Training-activities-and-supervision).
 
 ## Scientific impact
 
@@ -206,13 +206,15 @@ These are listed on a [separate page](https://hackmd.io/sZeTzlxSTuenUpUpN2xNng#S
 - Abstract and symposium reviewing for the [Organization for Human Brain Mapping (OHBM)](https://www.humanbrainmapping.org/) annual meetings.
 
 ### Service to the community:
-- 2021-2022. [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/) "Virtual Integration Task" co-chair, for the hybrid [OHBM 2022 meeting](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3298).
+- [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/) (OHBM) international society:
+    - 2022 - 2025. [Treasurer and Council member](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3910);
+    - 2021 - 2022. "Virtual Integration Task" co-chair, for the organization of the hybrid [OHBM 2022 meeting](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3298);
+    - 2018 - 2021. *Ad hoc* member of the “Program Committee”: keynote speakers, symposium and oral sessions selection;
+    - 2017 - 2018. Member of the “Communication Committee”.
 - 2021 - now. Secretary of the academic board, Department of Electrical Engineering and Computer Science, ULiège.
 - 2017 - now. Board member of the [“Belgian Society for Neuroscience”](https://bsn.ulb.be/).
 - 2016 - now. Representative of the GIGA scientific staff on the ["Conseil du Corps Scientifique"](http://labos.ulg.ac.be/ccs/), ULiège.
 - 2015 - now. *De facto* member of the Academic Council, School of Engineering, ULiège.
-- 2018 - 2021. Ad hoc member of the “Program Committee”, [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/): keynote speakers, symposium and oral sessions selection. 
 - former member of several commissions for the designation of new Academics, School of Engineering, ULiège.
-- 2017 - 2018. Member of the “Communication Committee”, Organization for Human Brain Mapping. 
 
 
