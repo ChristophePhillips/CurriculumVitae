@@ -105,7 +105,9 @@ Since 2017, 4 internships at the CRC:
 - July-August 2017, Hao Hu, Polytech Nantes (Frances), "Sleep EEG visualisation";
 - May-August 2018, Aubin Ardois, Polytech Nantes (Frances), "Actigraphy data visualization and analysis", co-supervision with Dr. G. Hammad;
 - May-August 2019, Benjamin Leroy, Polytech Nantes (Frances), "Actigraphy data standardisation, description and storage", co-supervision with Dr. G. Hammad;
-- February-March 2020, Marwa Jiyar, Haute Ecole Léonard de Vinci, Bruxelles, "Apports et différence d'un champ magnétique 7 Tesla et 3 Tesla en IRM dans la recherche fondamentale", co-supervision with the MR Physics team.
+- February-March 2020, Marwa Jiyar, Haute Ecole Léonard de Vinci, Bruxelles, "Apports et différence d'un champ magnétique 7 Tesla et 3 Tesla en IRM dans la recherche fondamentale", co-supervision with the MR Physics team;
+- June 2022, Pauline Noé, Télécom Physique Strasbourg (France), 4 week observation internship on neuroimaging lab activities (data acquisition, preocessing, interactions with colleagues, etc.);
+- June-August 2022, Emeline Pommier, Télécom Physique Strasbourg (France), 12 week internship, "Data BIDS-ification with BIDSme, tool development".
 
 ### PhD students in applied sciences and biomedical science 
 Since 2008, supervision of 18 PhD students thesis in engineering and biomedical science.
@@ -174,6 +176,7 @@ Note that the latter is hosted on the ULiege server.
 ### National and international collaborations
 (past and current)
 - 2018-2022, “Excellence of Science” grant, [MEMODYN project](https://crcn.ulb.ac.be/news/the-memodyn-project-laureate-of-the-eos-programme/), co-PI within the network of the University of Liège, Ghent, Brussels and Leuven, Belgium, and University College London, UK.
+- [Prof. Dr. Tony Stöcker](https://www.dzne.de/en/research/research-areas/population-health-sciences/forschungsgruppen/stoecker/research-areasfocus/), Head of MR Physics team at the “Deutsches Zentrum für Neurodegenerative Erkrankungen” (DZNE), Bonn, Germany
 - [Prof. Dr Nikolaus Weiskopf](https://www.cbs.mpg.de/employees/weiskopf), Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany, and an international team for the development of the “histological MRI” toolbox.
 - [Prof. Dr Janaina Mourao-Miranda](https://iris.ucl.ac.uk/iris/browse/profile?upi=JMOUR63), Machine learning and Neuroimaging Lab, Department of Computer Science, University College London, UK.
 - [Prof Dr Karl J. Friston](https://www.fil.ion.ucl.ac.uk/~karl/) and [Prof Dr Martina Callaghan](https://iris.ucl.ac.uk/iris/browse/profile?upi=MCALL93), Wellcome Trust Centre for Neuroimaging, University College London, UK, for the development of SPM and “quantitative MRI methods”.
@@ -198,10 +201,10 @@ These are listed on a [separate page](https://hackmd.io/sZeTzlxSTuenUpUpN2xNng#S
 - 2020 - now. member of the Editorial Board for the OA journal ["Aperture Neuro"](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4100) driven by [OHBM](https://www.humanbrainmapping.org/);
 - 2021 - now. Associate Editor for the journal [Frontiers in Neuroscience - Brain Imaging Methods](https://www.frontiersin.org/journals/all/sections/brain-imaging-methods)
 - 2017 - now. handling Editor for the journal ["Scientific Reports"](https://www.nature.com/srep/).
-- Article reviewing for several journal such as NeuroImage, Human Brain Mapping, Frontiers in Neuroscience, Scientific Reports,...
+- Article reviewing for several journals such as NeuroImage, Human Brain Mapping, Frontiers in Neuroscience, Scientific Reports,...
 - Grant reviewing for
     - the University of Strasbourg’s “Initiative of Excellence”, for the “Interdisciplinary Thematic Institutes” (ITI) call (2019).
-    - European Commission, H2020, [Marie Skłodowska-Curie Actions Individual Fellowships (MSCA-IF)](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) call in 2020.
+    - European Commission, H2020, [Marie Skłodowska-Curie Actions Individual Fellowships (MSCA-IF)](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) call in 2020 and 2021.
     - [Cluster for Individualized Immune Intervention (Ci3)](https://ci-3.de/), [Digital Enterprise Innovations for Bioimaging, Biosensing and Biobanking Industries (DIGI-B-CUBE)](https://ci-3.de/digibcube/) call (2019-2022).
 - Abstract and symposium reviewing for the [Organization for Human Brain Mapping (OHBM)](https://www.humanbrainmapping.org/) annual meetings.
 
@@ -214,7 +217,8 @@ These are listed on a [separate page](https://hackmd.io/sZeTzlxSTuenUpUpN2xNng#S
 - 2021 - now. Secretary of the academic board, Department of Electrical Engineering and Computer Science, ULiège.
 - 2017 - now. Board member of the [“Belgian Society for Neuroscience”](https://bsn.ulb.be/).
 - 2016 - now. Representative of the GIGA scientific staff on the ["Conseil du Corps Scientifique"](http://labos.ulg.ac.be/ccs/), ULiège.
-- 2015 - now. *De facto* member of the Academic Council, School of Engineering, ULiège.
+- 2015 - now. *de facto* member of the Academic Council, School of Engineering, ULiège.
+- 2015 - now. board member of the Graduate School in Electrical Engineering
 - former member of several commissions for the designation of new Academics, School of Engineering, ULiège.
 
 
