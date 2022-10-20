@@ -112,7 +112,7 @@ Since 2017, 4 internships at the CRC:
 ### PhD students in applied sciences and biomedical science 
 Since 2008, supervision of 18 PhD students thesis in engineering and biomedical science.
 
-#### Completed thesis (12)
+#### Completed thesis (13)
 - A. Collard, [“Geometric algorithms for the processing of DTI and their use in tractography and large scale genetic association study.”](http://hdl.handle.net/2268/156140), 2009-2013, co-sup. with Prof. R. Sepulchre (Dept of Electrical Engineering and Computer Science, ULiege), FNRS grant;
 - J. Schrouff, [“Pattern Recognition in NeuroImaging: What can machine learning classifiers bring to the analysis of functional brain imaging?”](http://hdl.handle.net/2268/141001), 2009-2013, FRIA grant;
 - E. André, [“Improvement of data quality for Diffusion Kurtosis Imaging and application to clinical neurological research.”](http://hdl.handle.net/2268/170414) 2010-2014, co-sup. with Dr. E. Balteau (CRC, ULiege), MC-ITN grant;
@@ -125,10 +125,10 @@ Since 2008, supervision of 18 PhD students thesis in engineering and biomedical 
 - M. Wehenkel, [“Characterization of neurodegenerative diseases with tree ensemble methods: the case of Alzheimer’s disease.”](http://hdl.handle.net/2268/227796), 2014-2018, co-sup. with Prof. P. Geurts (Dept of Electrical Engineering and Computer Science, ULiege), FNRS grant;
 - G. Antonopoulos, [“Machine Learning applications for characterizing brain-damaged patients’ level of consciousness.”](http://hdl.handle.net/2268/249874), 2013-2019, co-sup. with Prof. S. Laureys (GIGA Consciousness, ULiege);
 - M. Abdelrahman, [“Personal dosimetry of workers without a physical dosimeter using computational methods.”](http://hdl.handle.net/2268/249649), 2016-2020, co-sup. with Prof. A. Seret (Dept of Physics, ULiege) and Dr F. Vanhavere (SCK-CEN, Belgium), SCK-CEN grant.
+- M. Grignard, [“Realistic electro-magnetic modeling of the head”](https://hdl.handle.net/2268/293254). 2018-2022, co-sup. with Prof. C. Geuzaine (Dept of Electrical Engineering and Computer Science, ULiege); EoS FNRS "Memodyn" grant.
 
-#### Ongoing thesis (5)
+#### Ongoing thesis (4)
 - N. Vandeleene, “Identification of lesional brain tissues from quantitative Magnetic Resonance Imaging (qMRI) data”. 2018-2022 (expected), FRIA grant.
-- M. Grignard, “Realistic electro-magnetic modeling of the head”. 2018-2022 (expected), co-sup. with Prof. C. Geuzaine (Dept of Electrical Engineering and Computer Science, ULiege); EoS FNRS "Memodyn" grant
 - E. Lavrova, “Quantitative Neuro-Imaging with Radiomics and Deep Learning in two main neurological diseases: Multiple Sclerosis and Stroke”. 2019-2023 (expected), co-sup. with Prof. E. Salmon (GIGA-CRC in vivo imaging, ULiège) and Prof. P. Lambin (UMaastricht, Netherlands), “Imaging Valley” ULiège-UMaastricht grant.
 - S. Moallemian, "Multimodal analysis of biomarkers interactions to predict cognitive decline and risk for dementia". 2020-2024 (expected), co-sup. with Prof. C. Bastin (GIGA-CRC in vivo imaging, ULiège), ARC grant.
 - S. de Haan, "Physiology-based mathematical modelling of sleep-wake regulation and it's association with hypothalamic subfield integrityin older adults". 2021-2025 (expected), co-sup. with Prof. C. Schmidt (GIGA-CRC in vivo imaging, ULiège), FRIA grant.
@@ -140,7 +140,8 @@ Since 2008, supervision of 18 PhD students thesis in engineering and biomedical 
 ### Postdoctoral researchers
 Since 2008:
 - Dr. Fermin Segovia, October 2012 till September 2014. ULiège Postdoc-in grant, “Multivariate data-driven diagnosis of Parkinson's and Alzheimer's disease using pattern recognition techniques”.
-- Dr. Nikita Beliy, October 2018 till September 2022. EoS "FNRS" Memodyn grant, “Data management and curation”.
+- Dr. Nikita Beliy, October 2018 till September 2023. EoS "FNRS" Memodyn grant, “Data management and curation”.
+- Dr. Siya Sheriff, October 2019 till December 2023. Siemens grant for 7T MRI data acquisition and processing.
 
 
 ### Other traing, supervision & evaluation duties
@@ -209,6 +210,7 @@ These are listed on a [separate page](https://hackmd.io/sZeTzlxSTuenUpUpN2xNng#S
 - Abstract and symposium reviewing for the [Organization for Human Brain Mapping (OHBM)](https://www.humanbrainmapping.org/) annual meetings.
 
 ### Service to the community:
+- Member of the initiating steering group of the [Belgian Reproducibility Network](https://reproducibilitynetwork.be/)
 - [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/) (OHBM) international society:
     - 2022 - 2025. [Treasurer and Council member](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3910);
     - 2021 - 2022. "Virtual Integration Task" co-chair, for the organization of the hybrid [OHBM 2022 meeting](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3298);
