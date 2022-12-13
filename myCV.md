@@ -52,6 +52,7 @@ Honorary Research Associate, [Machine Learning and neuroimaging Lab](http://www.
 
 - [*Medical imaging*](https://www.programmes.uliege.be/cocoon/20202021/en/cours/GBIO0008-2.html), master in biomedical engineering & electrical engineering (5 ECTS), School of Engineering, ULiège, since 2008.
 - [*Introduction to medical statistics*](https://www.programmes.uliege.be/cocoon/20202021/en/cours/STAT0722-1.html), masters in physics and biomedical engineering (2 ECTS), Faculty of Sciences, ULiège, since 2002.
+- [*Principles of Neuroengineering*](https://www.programmes.uliege.be/cocoon/20222023/cours/GNEU0001-1.html), master in biomedical engineering & electrical engineering (5 ECTS), With Profs G. Drion & P. Sacré, School of Engineering, ULiège, since 2022.
 - [*Eléments d'informatique médicale*](http://progcours.ulg.ac.be/cocoon/cours/RADI2004-4.html), master in nuclear medicine, Faculty of Medicine, ULiège, since 2021.
 - [*Introduction to scientific computing*](https://indico.giga.uliege.be/event/146/) course, [GIGA Doctorate School](https://www.gigadoctoralschool.uliege.be/cms/c_5468932/en/gigadoctoralschool), [GIGA Institute](https://www.giga.uliege.be/). Course organized in 2018, [2019](https://indico.giga.uliege.be/event/36/), [2020](https://indico.giga.uliege.be/event/146/) (with video recordings of the last lectures) and [2021](https://indico.giga.uliege.be/event/264/).
 
