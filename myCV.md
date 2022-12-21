@@ -6,7 +6,7 @@ tags: CV
 
 [![hackmd-github-sync-badge](https://hackmd.io/c_VwMvUuRlCzaj1btzZR7g/badge)](https://hackmd.io/c_VwMvUuRlCzaj1btzZR7g)
 
-**Christophe Phillips**, Ir., Ph.D.
+**Christophe Phillips**, Ir., Ph.D., Prof.
 
 Contact details are available in the [University of Liège directory](https://www.uliege.be/cms/c_9054334/en/directory/?uid=U016440).
 
@@ -20,7 +20,7 @@ Note:<br>
 
 at the **[University of Liège](https://www.uliege.be/)**, Belgium:
 - **[FRS-FNRS](https://www.frs-fnrs.be/) Research Director**, [GIGA Institute](https://www.giga.uliege.be/) in the "[CRC *In Vivo* Imaging](https://www.gigacrc.uliege.be/)" and "[*In Silico* Medicine](https://www.gigainsilico.uliege.be/)" research units;
-- **Associate Professor**, [Department of Electrical Engineering and Computer Science](https://www.montefiore.uliege.be/cms/c_3482888/en/montefiore-institute), aka. "Montefiore Institute", [School of Engineering](https://www.facsa.uliege.be/).
+- **Professor**, [Department of Electrical Engineering and Computer Science](https://www.montefiore.uliege.be/cms/c_3482888/en/montefiore-institute), aka. "Montefiore Institute", [School of Engineering](https://www.facsa.uliege.be/).
 
 Honorary Research Associate, [Machine Learning and neuroimaging Lab](http://www.mlnl.cs.ucl.ac.uk/), [Centre for Medical Image Computing](https://www.ucl.ac.uk/medical-image-computing/), University College London, UK. 
 
@@ -62,12 +62,12 @@ Honorary Research Associate, [Machine Learning and neuroimaging Lab](http://www.
 - presentation at UGent Brainhack, 2017;
 
 ### International workshops
-- teaching at the [“Statistical parametric Mapping” (SPM)](https://www.fil.ion.ucl.ac.uk/spm/) courses on fMRI/VBM/PET and M/EEG data processing,
+- teaching at the [“Statistical parametric Mapping” (SPM)](https://www.fil.ion.ucl.ac.uk/spm/) three-day courses on fMRI/VBM/PET and M/EEG data processing,
     - bi-annual courses at the Wellcome Trust Centre for Neuroimaging, University College London, UK, since 2002;
     - ["SPM - biennial Edinburgh residential course"](https://www.ed.ac.uk/clinical-sciences/edinburgh-imaging/education-teaching/short-courses/all-our-courses/spm-biennial-edinburgh-residential-course) from 2013 till 2019;
     - neuro-imaging workshop at UCLouvain, Belgium, 2019;
     - courses in Montreal (Canada), Nara (Japan) and Shenzhen (China), as scientific coordinator and speaker;
-- [“Pattern Recognition for Neuroimaging Toolbox” (PRoNTo)](http://www.mlnl.cs.ucl.ac.uk/pronto/) yearly courses, Department of Computer Science, University College London, UK, 2012-2018 & 2021 (online). 
+- [“Pattern Recognition for Neuroimaging Toolbox” (PRoNTo)](http://www.mlnl.cs.ucl.ac.uk/pronto/) yearly two-day courses, Department of Computer Science, University College London, UK, 2012-2018 & 2021 (online). 
 - [“Pattern Recognition for Neuroimaging”](https://cyclotronresearchcentre.github.io/OHBM2020_ML4NI/) one-day Educational Course, annual Organization for Human Brain Mapping meetings, 2014-2018 & 2020.
 
 
@@ -113,7 +113,7 @@ Since 2017, 4 internships at the CRC:
 ### PhD students in applied sciences and biomedical science 
 Since 2008, supervision of 18 PhD students thesis in engineering and biomedical science.
 
-#### Completed thesis (13)
+#### Completed thesis (14)
 - A. Collard, [“Geometric algorithms for the processing of DTI and their use in tractography and large scale genetic association study.”](http://hdl.handle.net/2268/156140), 2009-2013, co-sup. with Prof. R. Sepulchre (Dept of Electrical Engineering and Computer Science, ULiege), FNRS grant;
 - J. Schrouff, [“Pattern Recognition in NeuroImaging: What can machine learning classifiers bring to the analysis of functional brain imaging?”](http://hdl.handle.net/2268/141001), 2009-2013, FRIA grant;
 - E. André, [“Improvement of data quality for Diffusion Kurtosis Imaging and application to clinical neurological research.”](http://hdl.handle.net/2268/170414) 2010-2014, co-sup. with Dr. E. Balteau (CRC, ULiege), MC-ITN grant;
@@ -127,9 +127,10 @@ Since 2008, supervision of 18 PhD students thesis in engineering and biomedical 
 - G. Antonopoulos, [“Machine Learning applications for characterizing brain-damaged patients’ level of consciousness.”](http://hdl.handle.net/2268/249874), 2013-2019, co-sup. with Prof. S. Laureys (GIGA Consciousness, ULiege);
 - M. Abdelrahman, [“Personal dosimetry of workers without a physical dosimeter using computational methods.”](http://hdl.handle.net/2268/249649), 2016-2020, co-sup. with Prof. A. Seret (Dept of Physics, ULiege) and Dr F. Vanhavere (SCK-CEN, Belgium), SCK-CEN grant.
 - M. Grignard, [“Realistic electro-magnetic modeling of the head”](https://hdl.handle.net/2268/293254). 2018-2022, co-sup. with Prof. C. Geuzaine (Dept of Electrical Engineering and Computer Science, ULiege); EoS FNRS "Memodyn" grant.
+- N. Vandeleene, [“Identification of lesional brain tissues from quantitative Magnetic Resonance Imaging (qMRI) data”](https://hdl.handle.net/2268/295931). 2018-2022, FRIA grant.
 
-#### Ongoing thesis (4)
-- N. Vandeleene, “Identification of lesional brain tissues from quantitative Magnetic Resonance Imaging (qMRI) data”. 2018-2022 (expected), FRIA grant.
+#### Ongoing thesis (3)
+
 - E. Lavrova, “Quantitative Neuro-Imaging with Radiomics and Deep Learning in two main neurological diseases: Multiple Sclerosis and Stroke”. 2019-2023 (expected), co-sup. with Prof. E. Salmon (GIGA-CRC in vivo imaging, ULiège) and Prof. P. Lambin (UMaastricht, Netherlands), “Imaging Valley” ULiège-UMaastricht grant.
 - S. Moallemian, "Multimodal analysis of biomarkers interactions to predict cognitive decline and risk for dementia". 2020-2024 (expected), co-sup. with Prof. C. Bastin (GIGA-CRC in vivo imaging, ULiège), ARC grant.
 - S. de Haan, "Physiology-based mathematical modelling of sleep-wake regulation and it's association with hypothalamic subfield integrityin older adults". 2021-2025 (expected), co-sup. with Prof. C. Schmidt (GIGA-CRC in vivo imaging, ULiège), FRIA grant.
