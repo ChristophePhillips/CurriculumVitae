@@ -29,7 +29,8 @@ Honorary Research Associate, [Machine Learning and neuroimaging Lab](http://www.
 
 ### Career
 - October 2021 – now. FRS-FNRS Research Director, GIGA CRC *in vivo* imaging, ULiège. 
-- October 2015 – now. Associate Professor, Department of Electrical Engineering and Computer Science, ULiège. 
+- October 2021 – now. Professor, Department of Electrical Engineering & Computer Science, ULiège. 
+- October 2015 – September 2021. Associate Professor, Department of Electrical Engineering & Computer Science, ULiège. 
 - March 2012 – now. Honorary Research Associate, Machine Learning and Neuroimaging Lab, Department of Computer Science, University College London, UK. 
 - October 2015 – September 2021. FRS-FNRS Senior Research Associate, GIGA CRC *in vivo* imaging, ULiège. 
 - October 2008 – September 2015. Adjunct Assistant Professor, Department of Electrical Engineering and Computer Science, ULiège. 
