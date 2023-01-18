@@ -76,7 +76,7 @@ Honorary Research Associate, [Machine Learning and neuroimaging Lab](http://www.
 as main supervisor, otherwise stated
 
 ### Master students
-Since 2005, supervision of 24 students in (biomedical) engineering for their master's project:
+Since 2005, supervision of 25 students in (mostly biomedical) engineering for their master's project:
 - A. Devalkeneer, “Segmentation EMS d'images 3D du cerveau”, 2005, co-supervisor with Prof. J. Verly;
 - G. Thielen, “Correction des artefacts d'enregistrement de signal électro-encéphalographique couplé à l'imagerie par résonance magnétique”, 2006, co-supervisor with Prof. J. Verly;
 - Y. Leclercq, “Correction of the ballistocardiographic artifact from EEG data acquired in the MRI scanner: An introduction of a cICA-based correction algorithm”, 2007;
@@ -99,8 +99,9 @@ Since 2005, supervision of 24 students in (biomedical) engineering for their mas
 - J. Coline, ["Tomosynthesis Imaging: Principles, Simulations and Practical Performance"](http://hdl.handle.net/2268.2/9047), 2020, in collaboration with [X-Ray Imaging Solutions](https://www.xris.eu/);
 - E. Jamotton, ["Influence of pressure on Terahertz imaging of fresh animal tissues"](http://hdl.handle.net/2268.2/10705), 2020, in collaboration with Dr M. Boutaayamou, Dept of Electrical Engineering and Computer Science, ULiege;
 - S. Bonghi, ["Quantitative MRI characterization of brain tissues in stroke patients"](http://hdl.handle.net/2268.2/13221), 2021, in collaboration with Profs M. Callaghan & J. Crinion, University College London, UK.
-- A. Debor, "Development of a robot interface for cognitive experimental tasks in human functional magnetic resonance imaging", 2022, in collaboration with Prof. P. Bellec, Université de Montreal, Montreal, Canada.
-- L. Backes, "Diagnosis of Alzheimer’s Disease via 3D Convolutional Neural Network", 2022, co-supervision with Prof. G. Louppe.
+- A. Debor, ["Development of a robot interface for cognitive experimental tasks in human functional magnetic resonance imaging"](http://hdl.handle.net/2268.2/15848), 2022, in collaboration with Prof. P. Bellec, Université de Montreal, Montreal, Canada.
+- L. Backes, ["Diagnosis of Alzheimer’s Disease via 3D Convolutional Neural Network"](http://hdl.handle.net/2268.2/15982), 2022, co-supervision with Prof. G. Louppe.
+- E. Jost-Jongen, "Identify key parameters influencing the quality of FLASH proton therapy plans", 2023, in collaboration with Dr R. Labarbe, IBA, Belgium.
 
 ### Internships
 Since 2017, 4 internships at the CRC:
@@ -144,7 +145,7 @@ Since 2008, supervision of 18 PhD students thesis in engineering and biomedical 
 Since 2008:
 - Dr. Fermin Segovia, October 2012 till September 2014. ULiège Postdoc-in grant, “Multivariate data-driven diagnosis of Parkinson's and Alzheimer's disease using pattern recognition techniques”.
 - Dr. Nikita Beliy, October 2018 till September 2023. EoS "FNRS" Memodyn grant, “Data management and curation”.
-- Dr. Siya Sheriff, October 2019 till December 2023. Siemens grant for 7T MRI data acquisition and processing.
+- Dr. Siya Sheriff, October 2019 till December 2022. Siemens grant for 7T MRI data acquisition and processing.
 
 
 ### Other traing, supervision & evaluation duties
@@ -156,8 +157,14 @@ These are listed on a [separate page](https://hackmd.io/1xZiY7fLRzmrIZPnjcnW4w#T
 ### Publications
 
 All the publications are **available in open access** via [Orbi@ULiège](http://orbi.uliege.be/ph-search?uid=u016440) and here is my [ORCID](https://orcid.org/0000-0002-4990-425X) page.
-
 The list of publications and publication indexes are also available on the usual platforms such as [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) and [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552).
+
+Some bibliographic indexes from, as of January 18, 2023:
+| Source         | H-index | #citations | #publications |
+| -------------- | ------- | ---------- | ------------- |
+| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 72      | 25086      | -             |
+| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)         | 59      | 13013      | 180           |
+
 
 A short selection of papers and talks is listed [here](https://hackmd.io/@cphillips/rkB08JWju).
 
