@@ -159,12 +159,11 @@ These are listed on a [separate page](https://hackmd.io/1xZiY7fLRzmrIZPnjcnW4w#T
 All the publications are **available in open access** via [Orbi@ULiège](http://orbi.uliege.be/ph-search?uid=u016440) and here is my [ORCID](https://orcid.org/0000-0002-4990-425X) page.
 The list of publications and publication indexes are also available on the usual platforms such as [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) and [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552).
 
-Some bibliographic indexes from, as of January 18, 2023:
+Some bibliographic indexes from, as of March 16, 2023:
 | Source         | H-index | #citations | #publications |
 | -------------- | ------- | ---------- | ------------- |
-| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 72      | 25086      | -             |
-| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)         | 59      | 13013      | 180           |
-
+| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 72      | 25426      | -             |
+| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)         | 59      | 13147      | 181           |
 
 A short selection of papers and talks is listed [here](https://hackmd.io/@cphillips/rkB08JWju).
 
@@ -220,17 +219,25 @@ These are listed on a [separate page](https://hackmd.io/sZeTzlxSTuenUpUpN2xNng#S
 - Abstract and symposium reviewing for the [Organization for Human Brain Mapping (OHBM)](https://www.humanbrainmapping.org/) annual meetings.
 
 ### Service to the community:
-- Member of the initiating steering group of the [Belgian Reproducibility Network](https://reproducibilitynetwork.be/)
+
+#### At ULiège
+- 2023 - 2026, Member of the "[Conseils sectoriels de la Recherche et de la Valorisation en Sciences et Techniques](https://www.recherche.uliege.be/cms/c_9099772/fr/conseil-sectoriel-de-la-recherche-et-de-la-valorisation-en-sciences-et-techniques)" (CSRV-ST, Sector Council for Research and Valorisation in Science and Techniques).
+- 2021 - now. Secretary of the academic board, [Department of Electrical Engineering and Computer Science](https://www.montefiore.uliege.be/).
+- 2016 - now. Representative of the GIGA scientific staff on the ULiege ["Conseil du Corps Scientifique"](http://labos.ulg.ac.be/ccs/) ("Council of the Scientific Staff").
+- 2015 - now. *De facto* member of the Academic Council, [School of Engineering](https://www.fsa.uliege.be/cms/c_3112656/en/fsa).
+- 2015 - now. Board member of the Graduate School in Electrical Engineering
+
+And former member of several commissions for the designation of new Academics, [School of Engineering](https://www.fsa.uliege.be/cms/c_3112656/en/fsa).
+
+#### In Belgium
+- 2021 - now. Member of the initiating steering group of the [Belgian Reproducibility Network](https://reproducibilitynetwork.be/)
+- 2017 - now. Board member of the [“Belgian Society for Neuroscience”](https://bsn.ulb.be/).
+
+#### Internationally
 - [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/) (OHBM) international society:
     - 2022 - 2025. [Treasurer and Council member](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3910);
     - 2021 - 2022. "Virtual Integration Task" co-chair, for the organization of the hybrid [OHBM 2022 meeting](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3298);
     - 2018 - 2021. *Ad hoc* member of the “Program Committee”: keynote speakers, symposium and oral sessions selection;
     - 2017 - 2018. Member of the “Communication Committee”.
-- 2021 - now. Secretary of the academic board, Department of Electrical Engineering and Computer Science, ULiège.
-- 2017 - now. Board member of the [“Belgian Society for Neuroscience”](https://bsn.ulb.be/).
-- 2016 - now. Representative of the GIGA scientific staff on the ["Conseil du Corps Scientifique"](http://labos.ulg.ac.be/ccs/), ULiège.
-- 2015 - now. *de facto* member of the Academic Council, School of Engineering, ULiège.
-- 2015 - now. board member of the Graduate School in Electrical Engineering
-- former member of several commissions for the designation of new Academics, School of Engineering, ULiège.
 
 
