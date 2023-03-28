@@ -240,4 +240,6 @@ And former member of several commissions for the designation of new Academics, [
     - 2018 - 2021. *Ad hoc* member of the “Program Committee”: keynote speakers, symposium and oral sessions selection;
     - 2017 - 2018. Member of the “Communication Committee”.
 
+### Service to the general public
 
+- [ImagéSanté festival](https://www.imagesante.be/), presentation about "[MRI and PET applications in neuroscience](https://hdl.handle.net/2268/301276)" to students from graduate schools, March 2023.
