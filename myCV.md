@@ -18,14 +18,17 @@ Note:<br>
 
 ## Current position
 
-at the **[University of Liège](https://www.uliege.be/)**, Belgium:
+Appointment at the **[University of Liège](https://www.uliege.be/)**, Belgium:
 - **[FRS-FNRS](https://www.frs-fnrs.be/) Research Director**, [GIGA Institute](https://www.giga.uliege.be/) in the "[CRC *In Vivo* Imaging](https://www.gigacrc.uliege.be/)" and "[*In Silico* Medicine](https://www.gigainsilico.uliege.be/)" research units;
 - **Professor**, [Department of Electrical Engineering and Computer Science](https://www.montefiore.uliege.be/cms/c_3482888/en/montefiore-institute), aka. "Montefiore Institute", [School of Engineering](https://www.facsa.uliege.be/).
 
 Honorary Research Associate, [Machine Learning and neuroimaging Lab](http://www.mlnl.cs.ucl.ac.uk/), [Centre for Medical Image Computing](https://www.ucl.ac.uk/medical-image-computing/), University College London, UK. 
 
-## Background information
+## Research statement
 
+
+
+## Background information
 
 ### Career
 - October 2021 – now. FRS-FNRS Research Director, GIGA CRC *in vivo* imaging, ULiège. 
@@ -40,6 +43,8 @@ Honorary Research Associate, [Machine Learning and neuroimaging Lab](http://www.
 - October 2000 – September 2001. Scientific Officer, Wellcome Department of Imaging Neuroscience (Prof. K. J. Friston), University College London, UK.
 - October 1998 – September 2000. Honorary researcher, Institute of Cognitive Neuroscience (with Prof. M. D. Rugg) and Wellcome Department of Imaging Neuroscience (with Prof. K. J Friston), University College London, UK.
 - September 1996 - September 2001. PhD Research Engineer, CRC, ULiège.
+- September 1994 - June 1996. Master in Electrical Engineering, ULiège.
+- September 1991 - June 1994. Bachelor in Engineering, ULiege.
 
 ### Diplomas:
 - January 2001, PhD in Applied Sciences (supervised by Prof. P. Maquet and Prof F.X. Litt), with “Summa cum laude”, ULiège. 
@@ -162,8 +167,8 @@ The list of publications and publication indexes are also available on the usual
 Some bibliographic indexes from, as of March 16, 2023:
 | Source         | H-index | #citations | #publications |
 | -------------- | ------- | ---------- | ------------- |
-| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 72      | 25426      | -             |
-| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)         | 59      | 13147      | 181           |
+| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 73      | 25893      | -             |
+| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)         | 60      | 13428      | 183           |
 
 A short selection of papers and talks is listed [here](https://hackmd.io/@cphillips/rkB08JWju).
 
@@ -218,7 +223,7 @@ These are listed on a [separate page](https://hackmd.io/sZeTzlxSTuenUpUpN2xNng#S
     - [Cluster for Individualized Immune Intervention (Ci3)](https://ci-3.de/), [Digital Enterprise Innovations for Bioimaging, Biosensing and Biobanking Industries (DIGI-B-CUBE)](https://ci-3.de/digibcube/) call (2019-2022).
 - Abstract and symposium reviewing for the [Organization for Human Brain Mapping (OHBM)](https://www.humanbrainmapping.org/) annual meetings.
 
-### Service to the community:
+### Service to the scientific community:
 
 #### At ULiège
 - 2023 - 2026, Member of the "[Conseils sectoriels de la Recherche et de la Valorisation en Sciences et Techniques](https://www.recherche.uliege.be/cms/c_9099772/fr/conseil-sectoriel-de-la-recherche-et-de-la-valorisation-en-sciences-et-techniques)" (CSRV-ST, Sector Council for Research and Valorisation in Science and Techniques).
@@ -232,6 +237,7 @@ And former member of several commissions for the designation of new Academics, [
 #### In Belgium
 - 2021 - now. Member of the initiating steering group of the [Belgian Reproducibility Network](https://reproducibilitynetwork.be/)
 - 2017 - now. Board member of the [“Belgian Society for Neuroscience”](https://bsn.ulb.be/).
+- 2023 - 2028. Full member of the Walloon Committee for the Protection of Experimental Animals (membre effectif du Comité wallon pour la protection des animaux d’expérience).
 
 #### Internationally
 - [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/) (OHBM) international society:
