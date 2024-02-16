@@ -56,12 +56,16 @@ Honorary Research Associate, [Machine Learning and neuroimaging Lab](http://www.
 
 ### ULiege courses
 
+#### Current duties
 - [*Medical imaging*](https://www.programmes.uliege.be/cocoon/20202021/en/cours/GBIO0008-2.html), master in biomedical engineering & electrical engineering (5 ECTS), School of Engineering, ULiège, since 2008.
-- [*Introduction to medical statistics*](https://www.programmes.uliege.be/cocoon/20202021/en/cours/STAT0722-1.html), masters in physics and biomedical engineering (2 ECTS), Faculty of Sciences, ULiège, since 2002.
-- [*Principles of Neuroengineering*](https://www.programmes.uliege.be/cocoon/20222023/cours/GNEU0001-1.html), master in biomedical engineering & electrical engineering (5 ECTS), With Profs G. Drion & P. Sacré, School of Engineering, ULiège, since 2022.
-- [*Eléments d'informatique médicale*](http://progcours.ulg.ac.be/cocoon/cours/RADI2004-4.html), master in nuclear medicine, Faculty of Medicine, ULiège, since 2021.
-- [*Introduction to scientific computing*](https://indico.giga.uliege.be/event/146/) course, [GIGA Doctorate School](https://www.gigadoctoralschool.uliege.be/cms/c_5468932/en/gigadoctoralschool), [GIGA Institute](https://www.giga.uliege.be/). Course organized in 2018, [2019](https://indico.giga.uliege.be/event/36/), [2020](https://indico.giga.uliege.be/event/146/) (with video recordings of the last lectures) and [2021](https://indico.giga.uliege.be/event/264/).
+- [*Neuroimaging data analysis*](https://www.programmes.uliege.be/cocoon/20232024/en/cours/GBIO0034-1.html), masters in electrical (neural systems) and biomedical engineering (2 ECTS), School of Engineering, ULiège, since 2023.
+- [*Principles of Neuroengineering*](https://www.programmes.uliege.be/cocoon/20222023/cours/GNEU0001-1.html), master in biomedical engineering & electrical engineering (5 ECTS), with Profs G. Drion & P. Sacré, School of Engineering, ULiège, since 2022.
+- [*Eléments d'informatique médicale*](http://progcours.ulg.ac.be/cocoon/cours/RADI2004-4.html), master in nuclear medicine (2 ECTS), Faculty of Medicine, ULiège, since 2021.
 
+#### Past duties
+- [*Introduction to scientific computing*](https://indico.giga.uliege.be/event/146/) course, [GIGA Doctorate School](https://www.gigadoctoralschool.uliege.be/cms/c_5468932/en/gigadoctoralschool), [GIGA Institute](https://www.giga.uliege.be/). Course organized in 2018, [2019](https://indico.giga.uliege.be/event/36/), [2020](https://indico.giga.uliege.be/event/146/) (with video recordings of the last lectures) and [2021](https://indico.giga.uliege.be/event/264/).
+- [*Introduction to medical statistics*](https://www.programmes.uliege.be/cocoon/20202021/en/cours/STAT0722-1.html), masters in physics and biomedical engineering (2 ECTS), Faculty of Sciences, ULiège, 2002-2022, then replaced by the "Neuroimaging data analysis" from 2023 onwards.
+- 
 ### Local and national workshops
 - presentations at the GIGA CRC *in vivo* imaging research unit seminars, ULiege;
 - [“Pattern Recognition for Neuroimaging Toolbox” (PRoNTo)](http://www.mlnl.cs.ucl.ac.uk/pronto/) course at the GIGA CRC *in vivo* imaging, 2013;
@@ -81,7 +85,7 @@ Honorary Research Associate, [Machine Learning and neuroimaging Lab](http://www.
 as main supervisor, otherwise stated
 
 ### Master students
-Since 2005, supervision of 25 students in (mostly biomedical) engineering for their master's project:
+Since 2005, supervision of 26 students in (mostly biomedical) engineering for their master's project:
 - A. Devalkeneer, “Segmentation EMS d'images 3D du cerveau”, 2005, co-supervisor with Prof. J. Verly;
 - G. Thielen, “Correction des artefacts d'enregistrement de signal électro-encéphalographique couplé à l'imagerie par résonance magnétique”, 2006, co-supervisor with Prof. J. Verly;
 - Y. Leclercq, “Correction of the ballistocardiographic artifact from EEG data acquired in the MRI scanner: An introduction of a cICA-based correction algorithm”, 2007;
@@ -106,7 +110,8 @@ Since 2005, supervision of 25 students in (mostly biomedical) engineering for th
 - S. Bonghi, ["Quantitative MRI characterization of brain tissues in stroke patients"](http://hdl.handle.net/2268.2/13221), 2021, in collaboration with Profs M. Callaghan & J. Crinion, University College London, UK.
 - A. Debor, ["Development of a robot interface for cognitive experimental tasks in human functional magnetic resonance imaging"](http://hdl.handle.net/2268.2/15848), 2022, in collaboration with Prof. P. Bellec, Université de Montreal, Montreal, Canada.
 - L. Backes, ["Diagnosis of Alzheimer’s Disease via 3D Convolutional Neural Network"](http://hdl.handle.net/2268.2/15982), 2022, co-supervision with Prof. G. Louppe.
-- E. Jost-Jongen, "Identify key parameters influencing the quality of FLASH proton therapy plans", 2023, in collaboration with Dr R. Labarbe, IBA, Belgium.
+- E. Jost-Jongen, ["Identify key parameters influencing the quality of FLASH proton therapy plans"](http://hdl.handle.net/2268.2/17725), 2023, in collaboration with Dr R. Labarbe, IBA, Belgium.
+- K. Di Bartolomeo, ["Dynamic correction of geometric distortions in high-resolution functional MRI at ultra-high magnetic field strengths."](), 2024, in collaboration with Prof. M. Callaghan, University College London, UK;
 
 ### Internships
 Since 2017, 4 internships at the CRC:
@@ -135,11 +140,11 @@ Since 2008, supervision of 18 PhD students thesis in engineering and biomedical 
 - M. Abdelrahman, [“Personal dosimetry of workers without a physical dosimeter using computational methods.”](http://hdl.handle.net/2268/249649), 2016-2020, co-sup. with Prof. A. Seret (Dept of Physics, ULiege) and Dr F. Vanhavere (SCK-CEN, Belgium), SCK-CEN grant.
 - M. Grignard, [“Realistic electro-magnetic modeling of the head”](https://hdl.handle.net/2268/293254). 2018-2022, co-sup. with Prof. C. Geuzaine (Dept of Electrical Engineering and Computer Science, ULiege); EoS FNRS "Memodyn" grant.
 - N. Vandeleene, [“Identification of lesional brain tissues from quantitative Magnetic Resonance Imaging (qMRI) data”](https://hdl.handle.net/2268/295931). 2018-2022, FRIA grant.
+- S. Moallemian, ["Multimodal analysis of biomarkers interactions to predict cognitive decline and risk for dementia"](https://hdl.handle.net/2268/310529). 2020-2023, co-sup. with Prof. C. Bastin (GIGA-CRC in vivo imaging, ULiège), ARC grant.
 
 #### Ongoing thesis (3)
 
-- E. Lavrova, “Quantitative Neuro-Imaging with Radiomics and Deep Learning in two main neurological diseases: Multiple Sclerosis and Stroke”. 2019-2023 (expected), co-sup. with Prof. E. Salmon (GIGA-CRC in vivo imaging, ULiège) and Prof. P. Lambin (UMaastricht, Netherlands), “Imaging Valley” ULiège-UMaastricht grant.
-- S. Moallemian, "Multimodal analysis of biomarkers interactions to predict cognitive decline and risk for dementia". 2020-2024 (expected), co-sup. with Prof. C. Bastin (GIGA-CRC in vivo imaging, ULiège), ARC grant.
+- E. Lavrova, “Quantitative Neuro-Imaging with Radiomics and Deep Learning in two main neurological diseases: Multiple Sclerosis and Stroke”. 2019-2024 (expected), co-sup. with Prof. E. Salmon (GIGA-CRC in vivo imaging, ULiège) and Prof. P. Lambin (UMaastricht, Netherlands), “Imaging Valley” ULiège-UMaastricht grant.
 - S. de Haan, "Physiology-based mathematical modelling of sleep-wake regulation and it's association with hypothalamic subfield integrityin older adults". 2021-2025 (expected), co-sup. with Prof. C. Schmidt (GIGA-CRC in vivo imaging, ULiège), FRIA grant.
 
 #### Interrupted thesis (2)
@@ -153,7 +158,7 @@ Since 2008:
 - Dr. Siya Sheriff, October 2019 till December 2022. Siemens grant for 7T MRI data acquisition and processing.
 
 
-### Other traing, supervision & evaluation duties
+### Other training, supervision & evaluation duties
 
 These are listed on a [separate page](https://hackmd.io/1xZiY7fLRzmrIZPnjcnW4w#Training-activities-and-supervision).
 
@@ -164,11 +169,11 @@ These are listed on a [separate page](https://hackmd.io/1xZiY7fLRzmrIZPnjcnW4w#T
 All the publications are **available in open access** via [Orbi@ULiège](http://orbi.uliege.be/ph-search?uid=u016440) and here is my [ORCID](https://orcid.org/0000-0002-4990-425X) page.
 The list of publications and publication indexes are also available on the usual platforms such as [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) and [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552).
 
-Some bibliographic indexes from, as of March 16, 2023:
+Some bibliographic indexes from, as of February 16, 2024:
 | Source         | H-index | #citations | #publications |
 | -------------- | ------- | ---------- | ------------- |
-| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 73      | 25893      | -             |
-| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)         | 60      | 13428      | 183           |
+| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 74      | 27489      | -             |
+| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)         | 61      | 14125      | 189           |
 
 A short selection of papers and talks is listed [here](https://hackmd.io/@cphillips/rkB08JWju).
 
@@ -237,7 +242,7 @@ And former member of several commissions for the designation of new Academics, [
 #### In Belgium
 - 2021 - now. Member of the initiating steering group of the [Belgian Reproducibility Network](https://reproducibilitynetwork.be/)
 - 2017 - now. Board member of the [“Belgian Society for Neuroscience”](https://bsn.ulb.be/).
-- 2023 - 2028. Full member of the Walloon Committee for the Protection of Experimental Animals (membre effectif du Comité wallon pour la protection des animaux d’expérience).
+- 2023 - 2028. President of the Walloon Committee for the Protection of Experimental Animals (Président du Comité Wallon pour la Protection des Animaux d’Expérience, CWPAE).
 
 #### Internationally
 - [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/) (OHBM) international society:
