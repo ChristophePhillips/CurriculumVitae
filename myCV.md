@@ -125,7 +125,7 @@ Since 2017, 4 internships at the CRC:
 ### PhD students in applied sciences and biomedical science 
 Since 2008, supervision of 18 PhD students thesis in engineering and biomedical science.
 
-#### Completed thesis (14)
+#### Completed thesis (16)
 - A. Collard, [“Geometric algorithms for the processing of DTI and their use in tractography and large scale genetic association study.”](http://hdl.handle.net/2268/156140), 2009-2013, co-sup. with Prof. R. Sepulchre (Dept of Electrical Engineering and Computer Science, ULiege), FNRS grant;
 - J. Schrouff, [“Pattern Recognition in NeuroImaging: What can machine learning classifiers bring to the analysis of functional brain imaging?”](http://hdl.handle.net/2268/141001), 2009-2013, FRIA grant;
 - E. André, [“Improvement of data quality for Diffusion Kurtosis Imaging and application to clinical neurological research.”](http://hdl.handle.net/2268/170414) 2010-2014, co-sup. with Dr. E. Balteau (CRC, ULiege), MC-ITN grant;
@@ -141,10 +141,10 @@ Since 2008, supervision of 18 PhD students thesis in engineering and biomedical 
 - M. Grignard, [“Realistic electro-magnetic modeling of the head”](https://hdl.handle.net/2268/293254). 2018-2022, co-sup. with Prof. C. Geuzaine (Dept of Electrical Engineering and Computer Science, ULiege); EoS FNRS "Memodyn" grant.
 - N. Vandeleene, [“Identification of lesional brain tissues from quantitative Magnetic Resonance Imaging (qMRI) data”](https://hdl.handle.net/2268/295931). 2018-2022, FRIA grant.
 - S. Moallemian, ["Multimodal analysis of biomarkers interactions to predict cognitive decline and risk for dementia"](https://hdl.handle.net/2268/310529). 2020-2023, co-sup. with Prof. C. Bastin (GIGA-CRC in vivo imaging, ULiège), ARC grant.
+- E. Lavrova, [“Quantitative neuroimaging with handcrafted and deep radiomics in neurological diseases”](https://hdl.handle.net/2268/309622). 2019-2024, co-sup. with Prof. E. Salmon (GIGA-CRC in vivo imaging, ULiège) and Prof. P. Lambin & Dr. H. Woodruff (UMaastricht, Netherlands), “Imaging Valley” ULiège-UMaastricht grant.
 
-#### Ongoing thesis (3)
+#### Ongoing thesis (1)
 
-- E. Lavrova, “Quantitative Neuro-Imaging with Radiomics and Deep Learning in two main neurological diseases: Multiple Sclerosis and Stroke”. 2019-2024 (expected), co-sup. with Prof. E. Salmon (GIGA-CRC in vivo imaging, ULiège) and Prof. P. Lambin (UMaastricht, Netherlands), “Imaging Valley” ULiège-UMaastricht grant.
 - S. de Haan, "Physiology-based mathematical modelling of sleep-wake regulation and it's association with hypothalamic subfield integrityin older adults". 2021-2025 (expected), co-sup. with Prof. C. Schmidt (GIGA-CRC in vivo imaging, ULiège), FRIA grant.
 
 #### Interrupted thesis (2)
@@ -172,8 +172,8 @@ The list of publications and publication indexes are also available on the usual
 Some bibliographic indexes from, as of February 16, 2024:
 | Source         | H-index | #citations | #publications |
 | -------------- | ------- | ---------- | ------------- |
-| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 74      | 27489      | -             |
-| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)         | 61      | 14125      | 189           |
+| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 74      | 28116      | -             |
+| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)         | 61      | 14314      | 191           |
 
 A short selection of papers and talks is listed [here](https://hackmd.io/@cphillips/rkB08JWju).
 
@@ -241,8 +241,8 @@ And former member of several commissions for the designation of new Academics, [
 
 #### In Belgium
 - 2021 - now. Member of the initiating steering group of the [Belgian Reproducibility Network](https://reproducibilitynetwork.be/)
-- 2017 - now. Board member of the [“Belgian Society for Neuroscience”](https://bsn.ulb.be/).
 - 2023 - 2028. President of the Walloon Committee for the Protection of Experimental Animals (Président du Comité Wallon pour la Protection des Animaux d’Expérience, CWPAE).
+- 2017 - 2024. Board member of the [“Belgian Society for Neuroscience”](https://bsn.ulb.be/).
 
 #### Internationally
 - [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/) (OHBM) international society:
