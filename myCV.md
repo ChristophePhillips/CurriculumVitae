@@ -19,14 +19,14 @@ Note:<br>
 ## Current position
 
 Appointment at the **[University of Liège](https://www.uliege.be/)**, Belgium:
-- **[FRS-FNRS](https://www.frs-fnrs.be/) Research Director**, [GIGA Institute](https://www.giga.uliege.be/) in the "[CRC *In Vivo* Imaging](https://www.gigacrc.uliege.be/)" and "[*In Silico* Medicine](https://www.gigainsilico.uliege.be/)" research units;
+- **[FRS-FNRS](https://www.frs-fnrs.be/) Research Director**, [GIGA Institute](https://www.giga.uliege.be/) in the ["Development in Data Acquisition & Modelling Lab"](https://www.giganidata.uliege.be/), which is part of the "[GIGA CRC Human Imaging](https://www.gigacrc.uliege.be/cms/c_4212477/en/gigacrc) research unit;
 - **Professor**, [Department of Electrical Engineering and Computer Science](https://www.montefiore.uliege.be/cms/c_3482888/en/montefiore-institute), aka. "Montefiore Institute", [School of Engineering](https://www.facsa.uliege.be/).
 
 Honorary Research Associate, [Machine Learning and neuroimaging Lab](http://www.mlnl.cs.ucl.ac.uk/), [Centre for Medical Image Computing](https://www.ucl.ac.uk/medical-image-computing/), University College London, UK. 
 
 ## Research statement
 
-
+My main interests consist in the development of techniques for the acquisition and processing of neuroimaging data. These include magnetic resonance imaging (MRI) and positron emission tomography (PET) but also electroencephalography and physiological signals such as actimetry and occulometry.  The curation and management of neuroimaging data is also a focus of my activities.
 
 ## Background information
 
@@ -169,11 +169,11 @@ These are listed on a [separate page](https://hackmd.io/1xZiY7fLRzmrIZPnjcnW4w#T
 All the publications are **available in open access** via [Orbi@ULiège](http://orbi.uliege.be/ph-search?uid=u016440) and here is my [ORCID](https://orcid.org/0000-0002-4990-425X) page.
 The list of publications and publication indexes are also available on the usual platforms such as [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) and [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552).
 
-Some bibliographic indexes from, as of February 16, 2024:
+Some bibliographic indexes from, as of September 5, 2024:
 | Source         | H-index | #citations | #publications |
 | -------------- | ------- | ---------- | ------------- |
-| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 74      | 28116      | -             |
-| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)         | 61      | 14314      | 191           |
+| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 75      | 29010      | -             |
+| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)   | 61      | 14665      | 193           |
 
 A short selection of papers and talks is listed [here](https://hackmd.io/@cphillips/rkB08JWju).
 
