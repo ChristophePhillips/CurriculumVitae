@@ -2,7 +2,7 @@
 tags: CV
 ---
 
-# Curriculum Vitae
+# **Curriculum Vitae**
 
 [![hackmd-github-sync-badge](https://hackmd.io/c_VwMvUuRlCzaj1btzZR7g/badge)](https://hackmd.io/c_VwMvUuRlCzaj1btzZR7g)
 
@@ -57,15 +57,15 @@ My main interests consist in the development of techniques for the acquisition a
 ### ULiege courses
 
 #### Current duties
-- [*Medical imaging*](https://www.programmes.uliege.be/cocoon/20202021/en/cours/GBIO0008-2.html), master in biomedical engineering & electrical engineering (5 ECTS), School of Engineering, ULiège, since 2008.
-- [*Neuroimaging data analysis*](https://www.programmes.uliege.be/cocoon/20232024/en/cours/GBIO0034-1.html), masters in electrical (neural systems) and biomedical engineering (2 ECTS), School of Engineering, ULiège, since 2023.
-- [*Principles of Neuroengineering*](https://www.programmes.uliege.be/cocoon/20222023/cours/GNEU0001-1.html), master in biomedical engineering & electrical engineering (5 ECTS), with Profs G. Drion & P. Sacré, School of Engineering, ULiège, since 2022.
-- [*Eléments d'informatique médicale*](http://progcours.ulg.ac.be/cocoon/cours/RADI2004-4.html), master in nuclear medicine (2 ECTS), Faculty of Medicine, ULiège, since 2021.
+- [*Medical imaging*](http://progcours.ulg.ac.be/cocoon/cours/GBIO0008-2.html), master in biomedical engineering & electrical engineering (5 ECTS), School of Engineering, ULiège, since 2008.
+- [*Neuroimaging data analysis*](http://progcours.ulg.ac.be/cocoon/cours/GBIO0034-1.html), masters in electrical (neural systems) and biomedical engineering (2 ECTS), School of Engineering, ULiège, since 2023.
+- [*Principles of Neuroengineering*](http://progcours.ulg.ac.be/cocoon/cours/GNEU0001-1.html), master in biomedical engineering & electrical engineering (5 ECTS), with Profs G. Drion, P. Sacré & A. Franci, School of Engineering, ULiège, since 2022.
+- [*Eléments d'informatique médicale*](http://progcours.ulg.ac.be/cocoon/cours/RADI2004-4.html), masters in nuclear medicine and radiotherapy (2 ECTS), Faculty of Medicine, ULiège, since 2021.
 
 #### Past duties
 - [*Introduction to scientific computing*](https://indico.giga.uliege.be/event/146/) course, [GIGA Doctorate School](https://www.gigadoctoralschool.uliege.be/cms/c_5468932/en/gigadoctoralschool), [GIGA Institute](https://www.giga.uliege.be/). Course organized in 2018, [2019](https://indico.giga.uliege.be/event/36/), [2020](https://indico.giga.uliege.be/event/146/) (with video recordings of the last lectures) and [2021](https://indico.giga.uliege.be/event/264/).
 - [*Introduction to medical statistics*](https://www.programmes.uliege.be/cocoon/20202021/en/cours/STAT0722-1.html), masters in physics and biomedical engineering (2 ECTS), Faculty of Sciences, ULiège, 2002-2022, then replaced by the "Neuroimaging data analysis" from 2023 onwards.
-- 
+
 ### Local and national workshops
 - presentations at the GIGA CRC *in vivo* imaging research unit seminars, ULiege;
 - [“Pattern Recognition for Neuroimaging Toolbox” (PRoNTo)](http://www.mlnl.cs.ucl.ac.uk/pronto/) course at the GIGA CRC *in vivo* imaging, 2013;
@@ -73,10 +73,10 @@ My main interests consist in the development of techniques for the acquisition a
 
 ### International workshops
 - teaching at the [“Statistical parametric Mapping” (SPM)](https://www.fil.ion.ucl.ac.uk/spm/) three-day courses on fMRI/VBM/PET and M/EEG data processing,
-    - bi-annual courses at the Wellcome Trust Centre for Neuroimaging, University College London, UK, since 2002;
+    - bi-annual courses at the Wellcome Trust Centre for Neuroimaging, University College London, UK, 2002-2023;
     - ["SPM - biennial Edinburgh residential course"](https://www.ed.ac.uk/clinical-sciences/edinburgh-imaging/education-teaching/short-courses/all-our-courses/spm-biennial-edinburgh-residential-course) from 2013 till 2019;
     - neuro-imaging workshop at UCLouvain, Belgium, 2019;
-    - courses in Montreal (Canada), Nara (Japan) and Shenzhen (China), as scientific coordinator and speaker;
+    - courses in Montreal (Canada), Nara (Japan) and Shenzhen (China), as scientific coordinator and speaker.
 - [“Pattern Recognition for Neuroimaging Toolbox” (PRoNTo)](http://www.mlnl.cs.ucl.ac.uk/pronto/) yearly two-day courses, Department of Computer Science, University College London, UK, 2012-2018 & 2021 (online). 
 - [“Pattern Recognition for Neuroimaging”](https://cyclotronresearchcentre.github.io/OHBM2020_ML4NI/) one-day Educational Course, annual Organization for Human Brain Mapping meetings, 2014-2018 & 2020.
 
@@ -85,7 +85,7 @@ My main interests consist in the development of techniques for the acquisition a
 as main supervisor, otherwise stated
 
 ### Master students
-Since 2005, supervision of 26 students in (mostly biomedical) engineering for their master's project:
+Since 2005, supervision of 27 students in (mostly biomedical) engineering for their master's project:
 - A. Devalkeneer, “Segmentation EMS d'images 3D du cerveau”, 2005, co-supervisor with Prof. J. Verly;
 - G. Thielen, “Correction des artefacts d'enregistrement de signal électro-encéphalographique couplé à l'imagerie par résonance magnétique”, 2006, co-supervisor with Prof. J. Verly;
 - Y. Leclercq, “Correction of the ballistocardiographic artifact from EEG data acquired in the MRI scanner: An introduction of a cICA-based correction algorithm”, 2007;
@@ -111,16 +111,20 @@ Since 2005, supervision of 26 students in (mostly biomedical) engineering for th
 - A. Debor, ["Development of a robot interface for cognitive experimental tasks in human functional magnetic resonance imaging"](http://hdl.handle.net/2268.2/15848), 2022, in collaboration with Prof. P. Bellec, Université de Montreal, Montreal, Canada.
 - L. Backes, ["Diagnosis of Alzheimer’s Disease via 3D Convolutional Neural Network"](http://hdl.handle.net/2268.2/15982), 2022, co-supervision with Prof. G. Louppe.
 - E. Jost-Jongen, ["Identify key parameters influencing the quality of FLASH proton therapy plans"](http://hdl.handle.net/2268.2/17725), 2023, in collaboration with Dr R. Labarbe, IBA, Belgium.
-- K. Di Bartolomeo, ["Dynamic correction of geometric distortions in high-resolution functional MRI at ultra-high magnetic field strengths."](), 2024, in collaboration with Prof. M. Callaghan, University College London, UK;
+- K. Di Bartolomeo, ["Dynamic correction of geometric distortions in high-resolution functional MRI at ultra-high magnetic field strengths."](http://hdl.handle.net/2268.2/20395), 2024, in collaboration with Prof. M. Callaghan, University College London, UK.
+- A. Jacquemin, ["Image smoothing in neuroimaging : effect of Gaussian vs. tissue-specific approaches on statistical analysis"](http://hdl.handle.net/2268.2/22438), January 2025.
+- G. Delporte, "Robustness evaluation of a deep learning based Synthetic CT generation algorithm.", planned for June 2025, in collaboration with Dr. Geoffroy Herbin from IBA, Belgium.
+- V. Strizhneva, "Linking Global Signal Amplitudes and Neuronal Activity During Mind Blanking Based on fMRI and EEG Data", planned for June 2025, co-supervision with Prof. A. Demertzi, ULiège.
 
 ### Internships
-Since 2017, 4 internships at the CRC:
+Since 2017, 7 summer internships at the CRC:
 - July-August 2017, Hao Hu, Polytech Nantes (Frances), "Sleep EEG visualisation";
 - May-August 2018, Aubin Ardois, Polytech Nantes (Frances), "Actigraphy data visualization and analysis", co-supervision with Dr. G. Hammad;
 - May-August 2019, Benjamin Leroy, Polytech Nantes (Frances), "Actigraphy data standardisation, description and storage", co-supervision with Dr. G. Hammad;
 - February-March 2020, Marwa Jiyar, Haute Ecole Léonard de Vinci, Bruxelles, "Apports et différence d'un champ magnétique 7 Tesla et 3 Tesla en IRM dans la recherche fondamentale", co-supervision with the MR Physics team;
 - June 2022, Pauline Noé, Télécom Physique Strasbourg (France), 4 week observation internship on neuroimaging lab activities (data acquisition, preocessing, interactions with colleagues, etc.);
 - June-August 2022, Emeline Pommier, Télécom Physique Strasbourg (France), 12 week internship, "Data BIDS-ification with BIDSme, tool development".
+- June-August 2024, Julien Couturas, Ecole supérieure d'ingénieur de Rennes (France), 12 week internship, "Traitement du signal EEG et actigraphique de sommeil pour une meilleure caractérisation des phases du sommeil."
 
 ### PhD students in applied sciences and biomedical science 
 Since 2008, supervision of 18 PhD students thesis in engineering and biomedical science.
@@ -169,11 +173,11 @@ These are listed on a [separate page](https://hackmd.io/1xZiY7fLRzmrIZPnjcnW4w#T
 All the publications are **available in open access** via [Orbi@ULiège](http://orbi.uliege.be/ph-search?uid=u016440) and here is my [ORCID](https://orcid.org/0000-0002-4990-425X) page.
 The list of publications and publication indexes are also available on the usual platforms such as [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) and [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552).
 
-Some bibliographic indexes from, as of September 5, 2024:
+Some bibliographic indexes from, as of October 5, 2024:
 | Source         | H-index | #citations | #publications |
 | -------------- | ------- | ---------- | ------------- |
-| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 75      | 29010      | -             |
-| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)   | 61      | 14665      | 193           |
+| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 75      | 29196     | -             |
+| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)   | 62      | 14760      | 193           |
 
 A short selection of papers and talks is listed [here](https://hackmd.io/@cphillips/rkB08JWju).
 
@@ -253,4 +257,5 @@ And former member of several commissions for the designation of new Academics, [
 
 ### Service to the general public
 
-- [ImagéSanté festival](https://www.imagesante.be/), presentation about "[MRI and PET applications in neuroscience](https://hdl.handle.net/2268/301276)" to students from graduate schools, March 2023.
+- [ImagéSanté festival](https://www.imagesante.be/), presentation about "[MRI and PET applications in neuroscience](https://hdl.handle.net/2268/301276)" to students from graduate schools, since 2018.
+- Teaching at "Université du 3ème âge", 2017.
