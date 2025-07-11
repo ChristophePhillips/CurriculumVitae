@@ -85,7 +85,7 @@ My main interests consist in the development of techniques for the acquisition a
 as main supervisor, otherwise stated
 
 ### Master students
-Since 2005, supervision of 27 students in (mostly biomedical) engineering for their master's project:
+Since 2005, supervision of 29 students in (mostly biomedical) engineering for their master's project:
 - A. Devalkeneer, “Segmentation EMS d'images 3D du cerveau”, 2005, co-supervisor with Prof. J. Verly;
 - G. Thielen, “Correction des artefacts d'enregistrement de signal électro-encéphalographique couplé à l'imagerie par résonance magnétique”, 2006, co-supervisor with Prof. J. Verly;
 - Y. Leclercq, “Correction of the ballistocardiographic artifact from EEG data acquired in the MRI scanner: An introduction of a cICA-based correction algorithm”, 2007;
@@ -113,7 +113,7 @@ Since 2005, supervision of 27 students in (mostly biomedical) engineering for th
 - E. Jost-Jongen, ["Identify key parameters influencing the quality of FLASH proton therapy plans"](http://hdl.handle.net/2268.2/17725), 2023, in collaboration with Dr R. Labarbe, IBA, Belgium.
 - K. Di Bartolomeo, ["Dynamic correction of geometric distortions in high-resolution functional MRI at ultra-high magnetic field strengths."](http://hdl.handle.net/2268.2/20395), 2024, in collaboration with Prof. M. Callaghan, University College London, UK.
 - A. Jacquemin, ["Image smoothing in neuroimaging : effect of Gaussian vs. tissue-specific approaches on statistical analysis"](http://hdl.handle.net/2268.2/22438), January 2025.
-- G. Delporte, "Robustness evaluation of a deep learning based Synthetic CT generation algorithm.", planned for June 2025, in collaboration with Dr. Geoffroy Herbin from IBA, Belgium.
+- G. Delporte, ["Robustness evaluation of a deep learning based Synthetic CT generation algorithm."](http://hdl.handle.net/2268.2/23235), June 2025, in collaboration with Dr. Geoffroy Herbin from IBA, Belgium.
 - V. Strizhneva, "Linking Global Signal Amplitudes and Neuronal Activity During Mind Blanking Based on fMRI and EEG Data", planned for June 2025, co-supervision with Prof. A. Demertzi, ULiège.
 
 ### Internships
@@ -125,9 +125,10 @@ Since 2017, 7 summer internships at the CRC:
 - June 2022, Pauline Noé, Télécom Physique Strasbourg (France), 4 week observation internship on neuroimaging lab activities (data acquisition, preocessing, interactions with colleagues, etc.);
 - June-August 2022, Emeline Pommier, Télécom Physique Strasbourg (France), 12 week internship, "Data BIDS-ification with BIDSme, tool development".
 - June-August 2024, Julien Couturas, Ecole supérieure d'ingénieur de Rennes (France), 12 week internship, "Traitement du signal EEG et actigraphique de sommeil pour une meilleure caractérisation des phases du sommeil."
+- June-September 2025, Bradley 
 
 ### PhD students in applied sciences and biomedical science 
-Since 2008, supervision of 18 PhD students thesis in engineering and biomedical science.
+Since 2008, supervision of 19 PhD students thesis in engineering and biomedical science.
 
 #### Completed thesis (16)
 - A. Collard, [“Geometric algorithms for the processing of DTI and their use in tractography and large scale genetic association study.”](http://hdl.handle.net/2268/156140), 2009-2013, co-sup. with Prof. R. Sepulchre (Dept of Electrical Engineering and Computer Science, ULiege), FNRS grant;
@@ -157,9 +158,12 @@ Since 2008, supervision of 18 PhD students thesis in engineering and biomedical 
 
 ### Postdoctoral researchers
 Since 2008:
-- Dr. Fermin Segovia, October 2012 till September 2014. ULiège Postdoc-in grant, “Multivariate data-driven diagnosis of Parkinson's and Alzheimer's disease using pattern recognition techniques”.
-- Dr. Nikita Beliy, October 2018 till September 2023. EoS "FNRS" Memodyn grant, “Data management and curation”.
-- Dr. Siya Sheriff, October 2019 till December 2022. Siemens grant for 7T MRI data acquisition and processing.
+- Dr Fermin Segovia, October 2012 till September 2014. ULiège Postdoc-in grant, “Multivariate data-driven diagnosis of Parkinson's and Alzheimer's disease using pattern recognition techniques”.
+- Dr Nikita Beliy, October 2018 till September 2023. EoS "FNRS" Memodyn grant, “Data management and curation”.
+- Dr Siya Sheriff, October 2019 till December 2022. Siemens grant for 7T MRI data acquisition and processing.
+- Dr Seyedmorteza Rohani Rankouhi, September 2024 till now. SRA-STEMA (ULiège) "Brain-to-boy MRI" grant.
+- Dr Evgenios Kornaropoulos, October 2024 till now. SRA-STEMA (ULiège) "Brain-to-boy MRI" grant.
+- Dr Jiqing Huang, December 2024 till now. SRA-STEMA (ULiège) "Brain-to-boy MRI" grant.
 
 
 ### Other training, supervision & evaluation duties
@@ -173,11 +177,11 @@ These are listed on a [separate page](https://hackmd.io/1xZiY7fLRzmrIZPnjcnW4w#T
 All the publications are **available in open access** via [Orbi@ULiège](http://orbi.uliege.be/ph-search?uid=u016440) and here is my [ORCID](https://orcid.org/0000-0002-4990-425X) page.
 The list of publications and publication indexes are also available on the usual platforms such as [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) and [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552).
 
-Some bibliographic indexes from, as of October 5, 2024:
+Some bibliographic indexes from, as of March 26, 2025:
 | Source         | H-index | #citations | #publications |
 | -------------- | ------- | ---------- | ------------- |
-| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 75      | 29196     | -             |
-| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)   | 62      | 14760      | 193           |
+| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 77      | 30832     | -             |
+| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)   | 63      | 15419     | 195           |
 
 A short selection of papers and talks is listed [here](https://hackmd.io/@cphillips/rkB08JWju).
 
@@ -193,6 +197,7 @@ Contribution to existing toolboxes
 <br>Member of the development team since 2016.
 - ["*shamo*"](https://cyclotronresearchcentre.github.io/shamo/index.html) (Stochastic HeAd MOdelling), CRC project, since 2019.
 - ["*BIDSme*"](https://github.com/CyclotronResearchCentre/bidsme). Multimodal dataset BIDS-ification, CRC project, since 2019.
+- ["*bids-matlab*"](https://github.com/bids-standard/bids-matlab). Matlab/Octave library to easily interact with BIDS-organiser data, since 2021.
 
 Other bits of code produced at the CRC/GIGA-research are distributed under an open source license via the Cyclotron Research Centre's [GitHub](https://github.com/CyclotronResearchCentre) or [GitLab](https://gitlab.uliege.be/CyclotronResearchCentre) platforms. <br>
 Note that the latter is hosted on the ULiege server.
@@ -203,7 +208,7 @@ Note that the latter is hosted on the ULiege server.
 - [Prof. Dr. Tony Stöcker](https://www.dzne.de/en/research/research-areas/population-health-sciences/forschungsgruppen/stoecker/research-areasfocus/), Head of MR Physics team at the “Deutsches Zentrum für Neurodegenerative Erkrankungen” (DZNE), Bonn, Germany
 - [Prof. Dr Nikolaus Weiskopf](https://www.cbs.mpg.de/employees/weiskopf), Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany, and an international team for the development of the “histological MRI” toolbox.
 - [Prof. Dr Janaina Mourao-Miranda](https://iris.ucl.ac.uk/iris/browse/profile?upi=JMOUR63), Machine learning and Neuroimaging Lab, Department of Computer Science, University College London, UK.
-- [Prof Dr Karl J. Friston](https://www.fil.ion.ucl.ac.uk/~karl/) and [Prof Dr Martina Callaghan](https://iris.ucl.ac.uk/iris/browse/profile?upi=MCALL93), Wellcome Trust Centre for Neuroimaging, University College London, UK, for the development of SPM and “quantitative MRI methods”.
+- [Prof. Dr Karl J. Friston](https://www.fil.ion.ucl.ac.uk/~karl/) and [Prof. Dr Martina Callaghan](https://iris.ucl.ac.uk/iris/browse/profile?upi=MCALL93), Wellcome Trust Centre for Neuroimaging, University College London, UK, for the development of SPM and “quantitative MRI methods”.
 - 2009-2015, ULiège representative for the Marie Curie International Training Network (MC-ITN) “Methods in Neuroimaging”. Along the CRC (ULiège), the network also involves: the Maastricht Brain Imaging Centre (Maastricht University, the Netherlands), the Research Centre Jülich (Germany) and GSK Clinical Imaging Centre, UK. 
   Seven Ph.D. theses in ULiège-UMaastricht co-diplomation .
 
@@ -220,7 +225,7 @@ These are listed on a [separate page](https://hackmd.io/sZeTzlxSTuenUpUpN2xNng#S
 
 ### Reviewing and editing
 - Member of several Ph.D. evaluation committees
-    - in Belgium: at ULiège (in the School of Engineering, Psychology, and Medicine) and University of Ghent, Belgium;
+    - in Belgium: at ULiège (in the School of Engineering, Psychology, and Medicine), UCLouvain, KULeuven and UGhent;
     - abroad: Maastricht University (Netherlands), INRIA (France), University of Birmingham and Kings College London (UK);
 - 2020 - now. member of the Editorial Board for the OA journal ["Aperture Neuro"](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4100) driven by [OHBM](https://www.humanbrainmapping.org/);
 - 2021 - now. Associate Editor for the journal [Frontiers in Neuroscience - Brain Imaging Methods](https://www.frontiersin.org/journals/all/sections/brain-imaging-methods)
@@ -228,8 +233,8 @@ These are listed on a [separate page](https://hackmd.io/sZeTzlxSTuenUpUpN2xNng#S
 - Article reviewing for several journals such as NeuroImage, Human Brain Mapping, Frontiers in Neuroscience, Scientific Reports,...
 - Grant reviewing for
     - the University of Strasbourg’s “Initiative of Excellence”, for the “Interdisciplinary Thematic Institutes” (ITI) call (2019).
-    - European Commission, H2020, [Marie Skłodowska-Curie Actions Individual Fellowships (MSCA-IF)](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) call in 2020 and 2021.
-    - [Cluster for Individualized Immune Intervention (Ci3)](https://ci-3.de/), [Digital Enterprise Innovations for Bioimaging, Biosensing and Biobanking Industries (DIGI-B-CUBE)](https://ci-3.de/digibcube/) call (2019-2022).
+    - European Commission, H2020, [Marie Skłodowska-Curie Actions Individual Fellowships (MSCA-IF)](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) calls in 2020, 2021 and 2024.
+    - [Cluster for Individualized Immune Intervention (Ci3)](https://ci-3.de/), [Digital Enterprise Innovations for Bioimaging, Biosensing and Biobanking Industries (DIGI-B-CUBE)](https://ci-3.de/digibcube/) call (2019 & 2022).
 - Abstract and symposium reviewing for the [Organization for Human Brain Mapping (OHBM)](https://www.humanbrainmapping.org/) annual meetings.
 
 ### Service to the scientific community:
@@ -245,7 +250,7 @@ And former member of several commissions for the designation of new Academics, [
 
 #### In Belgium
 - 2021 - now. Member of the initiating steering group of the [Belgian Reproducibility Network](https://reproducibilitynetwork.be/)
-- 2023 - 2028. President of the Walloon Committee for the Protection of Experimental Animals (Président du Comité Wallon pour la Protection des Animaux d’Expérience, CWPAE).
+- 2023 - 2028. President of the Walloon Committee for the Protection of Experimental Animals ([Comité Wallon pour la Protection des Animaux d’Expérience](https://bienetreanimal.wallonie.be/comite-wallon-pour-la-protection-des-animaux-dexperience.html), CWPAE).
 - 2017 - 2024. Board member of the [“Belgian Society for Neuroscience”](https://bsn.ulb.be/).
 
 #### Internationally
@@ -257,5 +262,5 @@ And former member of several commissions for the designation of new Academics, [
 
 ### Service to the general public
 
-- [ImagéSanté festival](https://www.imagesante.be/), presentation about "[MRI and PET applications in neuroscience](https://hdl.handle.net/2268/301276)" to students from graduate schools, since 2018.
+- [Festivval ImagéSanté](https://www.imagesante.be/), presentation about "Imagerie par résonance magnétique et tomographie par émission de positons: applications en neuroscience" to students from graduate schools, since 2018. Slides from [2023](https://hdl.handle.net/2268/301276) and [2025](https://hdl.handle.net/2268/330076).
 - Teaching at "Université du 3ème âge", 2017.
