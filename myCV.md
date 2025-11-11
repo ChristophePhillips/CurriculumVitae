@@ -19,7 +19,7 @@ Note:<br>
 ## Current position
 
 Appointment at the **[University of Liège](https://www.uliege.be/)**, Belgium:
-- **[FRS-FNRS](https://www.frs-fnrs.be/) Research Director**, [GIGA Institute](https://www.giga.uliege.be/) in the ["Development in Data Acquisition & Modelling Lab"](https://www.giganidata.uliege.be/), which is part of the "[GIGA CRC Human Imaging](https://www.gigacrc.uliege.be/cms/c_4212477/en/gigacrc) research unit;
+- **[FRS-FNRS](https://www.frs-fnrs.be/) Research Director**, [GIGA Institute](https://www.giga.uliege.be/) in the ["Development in Data Acquisition & Modelling Lab"](https://www.giganidata.uliege.be/), which is part of the "[GIGA CRC Human Imaging](https://www.gigacrc.uliege.be/cms/c_4212477/en/gigacrc)" research unit;
 - **Professor**, [Department of Electrical Engineering and Computer Science](https://www.montefiore.uliege.be/cms/c_3482888/en/montefiore-institute), aka. "Montefiore Institute", [School of Engineering](https://www.facsa.uliege.be/).
 
 Honorary Research Associate, [Machine Learning and neuroimaging Lab](http://www.mlnl.cs.ucl.ac.uk/), [Centre for Medical Image Computing](https://www.ucl.ac.uk/medical-image-computing/), University College London, UK. 
@@ -73,7 +73,7 @@ My main interests consist in the development of techniques for the acquisition a
 
 ### International workshops
 - teaching at the [“Statistical parametric Mapping” (SPM)](https://www.fil.ion.ucl.ac.uk/spm/) three-day courses on fMRI/VBM/PET and M/EEG data processing,
-    - bi-annual courses at the Wellcome Trust Centre for Neuroimaging, University College London, UK, 2002-2023;
+    - bi-annual courses at the Wellcome Trust Centre for Neuroimaging, University College London, UK, from 2002 till 2023;
     - ["SPM - biennial Edinburgh residential course"](https://www.ed.ac.uk/clinical-sciences/edinburgh-imaging/education-teaching/short-courses/all-our-courses/spm-biennial-edinburgh-residential-course) from 2013 till 2019;
     - neuro-imaging workshop at UCLouvain, Belgium, 2019;
     - courses in Montreal (Canada), Nara (Japan) and Shenzhen (China), as scientific coordinator and speaker.
@@ -85,7 +85,7 @@ My main interests consist in the development of techniques for the acquisition a
 as main supervisor, otherwise stated
 
 ### Master students
-Since 2005, supervision of 29 students in (mostly biomedical) engineering for their master's project:
+Since 2005, supervision of 33 students in (mostly biomedical) engineering for their master's project:
 - A. Devalkeneer, “Segmentation EMS d'images 3D du cerveau”, 2005, co-supervisor with Prof. J. Verly;
 - G. Thielen, “Correction des artefacts d'enregistrement de signal électro-encéphalographique couplé à l'imagerie par résonance magnétique”, 2006, co-supervisor with Prof. J. Verly;
 - Y. Leclercq, “Correction of the ballistocardiographic artifact from EEG data acquired in the MRI scanner: An introduction of a cICA-based correction algorithm”, 2007;
@@ -95,7 +95,7 @@ Since 2005, supervision of 29 students in (mostly biomedical) engineering for th
 - S. Furlan, “Spatial realignment of diffusion weighted magnetic resonance images.” 2011;
 - O. Herbiet, “Caractérisation de l’effet de volume partiel en imagerie par emission de positrons chez les petits animaux.” 2011;
 - J.-M. Duthoo, “Développement d'une interface cerveau-ordinateur basée sur l'électroencéphalographie et l'électromyographie à des fins de diagnostique.” 2012;
-- M. Gonzalez y Viagas, “Automatic biorhythms description from actigraphic data”, 2014;
+- M. Gonzalez y Viagas, [“Automatic biorhythms description from actigraphic data”](https://github.com/CyclotronResearchCentre/Actigraphy/blob/master/Rapport/main.pdf), 2014, and the [code+thesis+ESRS poster on GitHub](https://github.com/CyclotronResearchCentre/Actigraphy/tree/master);
 - A. Vanvinckenroye, “Modeling and analyzing EEG-TMS data with dynamic causal modeling”, 2015;
 - L. Godon, [“Reconstruction of 3D images by tomosynthesis or tomography”](http://hdl.handle.net/2268.2/4646), 2018, in collaboration with [X-Ray Imaging Solutions](https://www.xris.eu/);
 - V. Hortelan, [“Numerical simulation of the tau proteins aggregation in the brain and in the brain metabolism”](http://hdl.handle.net/2268.2/4517), 2018, in collaboration with Prof. H. Benali, Concordia University, Montreal, Canada;
@@ -114,7 +114,11 @@ Since 2005, supervision of 29 students in (mostly biomedical) engineering for th
 - K. Di Bartolomeo, ["Dynamic correction of geometric distortions in high-resolution functional MRI at ultra-high magnetic field strengths."](http://hdl.handle.net/2268.2/20395), 2024, in collaboration with Prof. M. Callaghan, University College London, UK.
 - A. Jacquemin, ["Image smoothing in neuroimaging : effect of Gaussian vs. tissue-specific approaches on statistical analysis"](http://hdl.handle.net/2268.2/22438), January 2025.
 - G. Delporte, ["Robustness evaluation of a deep learning based Synthetic CT generation algorithm."](http://hdl.handle.net/2268.2/23235), June 2025, in collaboration with Dr. Geoffroy Herbin from IBA, Belgium.
-- V. Strizhneva, "Linking Global Signal Amplitudes and Neuronal Activity During Mind Blanking Based on fMRI and EEG Data", planned for June 2025, co-supervision with Prof. A. Demertzi, ULiège.
+- V. Strizhneva, ["Linking Global Signal Amplitudes and Neuronal Activity During Mind Blanking Based on fMRI and EEG Data"](http://hdl.handle.net/2268.2/24912), September 2025, co-supervision with Prof. A. Demertzi, ULiège.
+- T. Guittet, "Registration of *ex vivo* histological data and *post mortem* high resolution MRIs in multiple sclerosis", planned for June 2026.
+- L. Guamgne Simo, tbd., planned for June 2026, in collaboration with V. Libertiaux & D. Koch from [XRIS](https://xris.eu/).
+- R. Minne, "*In vivo* human MR sodium imaging at 7T", planned for June 2026, in Collaboration with Dr M. Zubkov (GIGA-CRC Human Imaging).
+- M.-A. Lahriki (Master in biomedical science, faculty of medicine), "Extraction of neuroimaging data from a XNAT server into BIDS format", planned for June 2026, in Collaboration with Dr N. Beliy (GIGA-CRC Human Imaging).
 
 ### Internships
 Since 2017, 7 summer internships at the CRC:
@@ -125,32 +129,35 @@ Since 2017, 7 summer internships at the CRC:
 - June 2022, Pauline Noé, Télécom Physique Strasbourg (France), 4 week observation internship on neuroimaging lab activities (data acquisition, preocessing, interactions with colleagues, etc.);
 - June-August 2022, Emeline Pommier, Télécom Physique Strasbourg (France), 12 week internship, "Data BIDS-ification with BIDSme, tool development".
 - June-August 2024, Julien Couturas, Ecole supérieure d'ingénieur de Rennes (France), 12 week internship, "Traitement du signal EEG et actigraphique de sommeil pour une meilleure caractérisation des phases du sommeil."
-- June-September 2025, Bradley 
+- June-September 2025, Bradley Spitz, Télécom Physique Strasbourg (France), 12 week internship, "Intégration de l’outil BIDSme dans le package NeuroDesk".
 
 ### PhD students in applied sciences and biomedical science 
 Since 2008, supervision of 19 PhD students thesis in engineering and biomedical science.
 
 #### Completed thesis (16)
-- A. Collard, [“Geometric algorithms for the processing of DTI and their use in tractography and large scale genetic association study.”](http://hdl.handle.net/2268/156140), 2009-2013, co-sup. with Prof. R. Sepulchre (Dept of Electrical Engineering and Computer Science, ULiege), FNRS grant;
-- J. Schrouff, [“Pattern Recognition in NeuroImaging: What can machine learning classifiers bring to the analysis of functional brain imaging?”](http://hdl.handle.net/2268/141001), 2009-2013, FRIA grant;
-- E. André, [“Improvement of data quality for Diffusion Kurtosis Imaging and application to clinical neurological research.”](http://hdl.handle.net/2268/170414) 2010-2014, co-sup. with Dr. E. Balteau (CRC, ULiege), MC-ITN grant;
-- E. Ziegler, [“Multimodal modelling of the human brain.”](http://hdl.handle.net/2268/182436), 2010-2014, MC-ITN grant;
-- F. Bretin, [“Dosimetry of preclinical and clinical case studies of 18F-radiopharmaceuticals using PET and CT: Methods of quantification, their improvement and considerations of critical exposures.”](http://hdl.handle.net/2268/254022), 2011-2015, co-sup. with Prof. A. Seret (Dept of Physics, ULiege), MC-ITN grant;
-- B. Guillaume, [“Accurate non-iterative modelling and inference of longitudinal neuroimaging data.”](http://hdl.handle.net/2268/186284), 2010-2015, co-sup. with Prof T. Nichols (Warwick University, UK), MC-ITN grant.
-- K. Möllenhof, [“Novel methods for the detection of functional brain activity using 17O MR.”](http://hdl.handle.net/2268/199125), 2012-2016, co-sup with Prof J. Shah (Jülich Research Centre, Germany), MC-ITN grant;
-- D. Coppieters, [“Detection of spontaneous pattern of activities in EEG/MEG.”](http://hdl.handle.net/2268/203832), 2012-2016, FRIA grant;
-- F. Thomas, [“Continuous Glucose Monitoring for Optimising Glycaemic Performance in Individuals without Diabetes”](http://hdl.handle.net/2268/211314), 2013-2017, co-sup. with Dr. T. Desaives (Dept of Electrical Engineering and Computer Science, ULiege, & Dept of Mechanical Engineering, the University of Canterbury, New Zealand );
-- M. Wehenkel, [“Characterization of neurodegenerative diseases with tree ensemble methods: the case of Alzheimer’s disease.”](http://hdl.handle.net/2268/227796), 2014-2018, co-sup. with Prof. P. Geurts (Dept of Electrical Engineering and Computer Science, ULiege), FNRS grant;
-- G. Antonopoulos, [“Machine Learning applications for characterizing brain-damaged patients’ level of consciousness.”](http://hdl.handle.net/2268/249874), 2013-2019, co-sup. with Prof. S. Laureys (GIGA Consciousness, ULiege);
-- M. Abdelrahman, [“Personal dosimetry of workers without a physical dosimeter using computational methods.”](http://hdl.handle.net/2268/249649), 2016-2020, co-sup. with Prof. A. Seret (Dept of Physics, ULiege) and Dr F. Vanhavere (SCK-CEN, Belgium), SCK-CEN grant.
-- M. Grignard, [“Realistic electro-magnetic modeling of the head”](https://hdl.handle.net/2268/293254). 2018-2022, co-sup. with Prof. C. Geuzaine (Dept of Electrical Engineering and Computer Science, ULiege); EoS FNRS "Memodyn" grant.
-- N. Vandeleene, [“Identification of lesional brain tissues from quantitative Magnetic Resonance Imaging (qMRI) data”](https://hdl.handle.net/2268/295931). 2018-2022, FRIA grant.
-- S. Moallemian, ["Multimodal analysis of biomarkers interactions to predict cognitive decline and risk for dementia"](https://hdl.handle.net/2268/310529). 2020-2023, co-sup. with Prof. C. Bastin (GIGA-CRC in vivo imaging, ULiège), ARC grant.
-- E. Lavrova, [“Quantitative neuroimaging with handcrafted and deep radiomics in neurological diseases”](https://hdl.handle.net/2268/309622). 2019-2024, co-sup. with Prof. E. Salmon (GIGA-CRC in vivo imaging, ULiège) and Prof. P. Lambin & Dr. H. Woodruff (UMaastricht, Netherlands), “Imaging Valley” ULiège-UMaastricht grant.
+- Anne Collard, [“Geometric algorithms for the processing of DTI and their use in tractography and large scale genetic association study.”](http://hdl.handle.net/2268/156140), 2009-2013, co-sup. with Prof. R. Sepulchre (Dept of Electrical Engineering and Computer Science, ULiege), FNRS grant;
+- Jessica Schrouff, [“Pattern Recognition in NeuroImaging: What can machine learning classifiers bring to the analysis of functional brain imaging?”](http://hdl.handle.net/2268/141001), 2009-2013, FRIA grant;
+- Elodie André, [“Improvement of data quality for Diffusion Kurtosis Imaging and application to clinical neurological research.”](http://hdl.handle.net/2268/170414) 2010-2014, co-sup. with Dr. E. Balteau (CRC, ULiege), MC-ITN grant;
+- Erik Ziegler, [“Multimodal modelling of the human brain.”](http://hdl.handle.net/2268/182436), 2010-2014, MC-ITN grant;
+- Florian Bretin, [“Dosimetry of preclinical and clinical case studies of 18F-radiopharmaceuticals using PET and CT: Methods of quantification, their improvement and considerations of critical exposures.”](http://hdl.handle.net/2268/254022), 2011-2015, co-sup. with Prof. A. Seret (Dept of Physics, ULiege), MC-ITN grant;
+- Bryan Guillaume, [“Accurate non-iterative modelling and inference of longitudinal neuroimaging data.”](http://hdl.handle.net/2268/186284), 2010-2015, co-sup. with Prof T. Nichols (Warwick University, UK), MC-ITN grant.
+- Klaus Möllenhof, [“Novel methods for the detection of functional brain activity using 17O MR.”](http://hdl.handle.net/2268/199125), 2012-2016, co-sup with Prof J. Shah (Jülich Research Centre, Germany), MC-ITN grant;
+- Dorothe Coppieters, [“Detection of spontaneous pattern of activities in EEG/MEG.”](http://hdl.handle.net/2268/203832), 2012-2016, FRIA grant;
+- François Thomas, [“Continuous Glucose Monitoring for Optimising Glycaemic Performance in Individuals without Diabetes”](http://hdl.handle.net/2268/211314), 2013-2017, co-sup. with Dr. T. Desaives (Dept of Electrical Engineering and Computer Science, ULiege, & Dept of Mechanical Engineering, the University of Canterbury, New Zealand );
+- Marie Wehenkel, [“Characterization of neurodegenerative diseases with tree ensemble methods: the case of Alzheimer’s disease.”](http://hdl.handle.net/2268/227796), 2014-2018, co-sup. with Prof. P. Geurts (Dept of Electrical Engineering and Computer Science, ULiege), FNRS grant;
+- Georios Antonopoulos, [“Machine Learning applications for characterizing brain-damaged patients’ level of consciousness.”](http://hdl.handle.net/2268/249874), 2013-2019, co-sup. with Prof. S. Laureys (GIGA Consciousness, ULiege);
+- Mahmoud Abdelrahman, [“Personal dosimetry of workers without a physical dosimeter using computational methods.”](http://hdl.handle.net/2268/249649), 2016-2020, co-sup. with Prof. A. Seret (Dept of Physics, ULiege) and Dr F. Vanhavere (SCK-CEN, Belgium), SCK-CEN grant.
+- Martin Grignard, [“Realistic electro-magnetic modeling of the head”](https://hdl.handle.net/2268/293254). 2018-2022, co-sup. with Prof. C. Geuzaine (Dept of Electrical Engineering and Computer Science, ULiege); EoS FNRS "Memodyn" grant.
+- Nora Vandeleene, [“Identification of lesional brain tissues from quantitative Magnetic Resonance Imaging (qMRI) data”](https://hdl.handle.net/2268/295931). 2018-2022, FRIA grant.
+- Soodeh Moallemian, ["Multimodal analysis of biomarkers interactions to predict cognitive decline and risk for dementia"](https://hdl.handle.net/2268/310529). 2020-2023, co-sup. with Prof. C. Bastin (GIGA-CRC in vivo imaging, ULiège), ARC grant.
+- Elizaveta Lavrova, [“Quantitative neuroimaging with handcrafted and deep radiomics in neurological diseases”](https://hdl.handle.net/2268/309622). 2019-2024, co-sup. with Prof. E. Salmon (GIGA-CRC in vivo imaging, ULiège) and Prof. P. Lambin & Dr. H. Woodruff (UMaastricht, Netherlands), “Imaging Valley” ULiège-UMaastricht grant.
 
-#### Ongoing thesis (1)
+#### Ongoing thesis (4)
 
-- S. de Haan, "Physiology-based mathematical modelling of sleep-wake regulation and it's association with hypothalamic subfield integrityin older adults". 2021-2025 (expected), co-sup. with Prof. C. Schmidt (GIGA-CRC in vivo imaging, ULiège), FRIA grant.
+- Stalla de Haan, "Physiology-based mathematical modelling of sleep-wake regulation and it's association with hypothalamic subfield integrityin older adults". 2021-2025 (expected), co-sup. with Prof. C. Schmidt (GIGA-CRC in vivo imaging, ULiège), FRIA grant.
+- Antoine Jacquemin, "Metabolite-based CEST MR imaging for the characterization of healthy ageing and Alzheimer's disease risks.". 2025-2029 (expected), PDR grant.
+- Fanny Bodart, "From weather to brain: deep learning data assimilation for fMRI artifact correction". 2025-2029 (expected), co-sup. with Prof. G. Louppe (Dept of Electrical Engineering and Computer Science, ULiège), ULiège grant.
+- Thi Hoang Trang Nguyen, "Multimodal Identification and Personalized Intervention of Focus Loss in the Workplace Using AI-Driven Brain-Computer Interfaces". 2025-2029 (expected), co-sup. with Prof C. T. Vi (HCMH International University, Vietnam & [Brain-Life](https://brainlife.co.uk/) CEO).
 
 #### Interrupted thesis (2)
 - Y. Leclercq, “Development of an EEG-based brain-computer-interface working in a MRI scanner”, 2008-2010, FRIA grant.
@@ -159,9 +166,9 @@ Since 2008, supervision of 19 PhD students thesis in engineering and biomedical 
 ### Postdoctoral researchers
 Since 2008:
 - Dr Fermin Segovia, October 2012 till September 2014. ULiège Postdoc-in grant, “Multivariate data-driven diagnosis of Parkinson's and Alzheimer's disease using pattern recognition techniques”.
-- Dr Nikita Beliy, October 2018 till September 2023. EoS "FNRS" Memodyn grant, “Data management and curation”.
+- Dr Nikita Beliy, October 2018 till now. Originally financed by a EoS "FNRS" Memodyn grant, “Data management and curation”.
 - Dr Siya Sheriff, October 2019 till December 2022. Siemens grant for 7T MRI data acquisition and processing.
-- Dr Seyedmorteza Rohani Rankouhi, September 2024 till now. SRA-STEMA (ULiège) "Brain-to-boy MRI" grant.
+- Dr Seyedmorteza Rohani Rankouhi, September 2024 till August 2025. SRA-STEMA (ULiège) "Brain-to-boy MRI" grant.
 - Dr Evgenios Kornaropoulos, October 2024 till now. SRA-STEMA (ULiège) "Brain-to-boy MRI" grant.
 - Dr Jiqing Huang, December 2024 till now. SRA-STEMA (ULiège) "Brain-to-boy MRI" grant.
 
@@ -177,11 +184,11 @@ These are listed on a [separate page](https://hackmd.io/1xZiY7fLRzmrIZPnjcnW4w#T
 All the publications are **available in open access** via [Orbi@ULiège](http://orbi.uliege.be/ph-search?uid=u016440) and here is my [ORCID](https://orcid.org/0000-0002-4990-425X) page.
 The list of publications and publication indexes are also available on the usual platforms such as [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) and [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552).
 
-Some bibliographic indexes from, as of March 26, 2025:
+Some bibliographic indexes from, as of November 11, 2025:
 | Source         | H-index | #citations | #publications |
 | -------------- | ------- | ---------- | ------------- |
-| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 77      | 30832     | -             |
-| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)   | 63      | 15419     | 195           |
+| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 77      | 32461     | -             |
+| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)   | 64      | 15894     | 197           |
 
 A short selection of papers and talks is listed [here](https://hackmd.io/@cphillips/rkB08JWju).
 
@@ -262,5 +269,5 @@ And former member of several commissions for the designation of new Academics, [
 
 ### Service to the general public
 
-- [Festivval ImagéSanté](https://www.imagesante.be/), presentation about "Imagerie par résonance magnétique et tomographie par émission de positons: applications en neuroscience" to students from graduate schools, since 2018. Slides from [2023](https://hdl.handle.net/2268/301276) and [2025](https://hdl.handle.net/2268/330076).
+- [Festival ImagéSanté](https://www.imagesante.be/), presentation about "Imagerie par résonance magnétique et tomographie par émission de positons: applications en neuroscience" to students from graduate schools, since 2018. Slides from [2023](https://hdl.handle.net/2268/301276) and [2025](https://hdl.handle.net/2268/330076).
 - Teaching at "Université du 3ème âge", 2017.
