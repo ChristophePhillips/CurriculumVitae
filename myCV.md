@@ -85,7 +85,7 @@ My main interests consist in the development of techniques for the acquisition a
 as main supervisor, otherwise stated
 
 ### Master students
-Since 2005, supervision of 33 students in (mostly biomedical) engineering for their master's project:
+Since 2005, supervision of 34 students in (mostly) biomedical engineering for their master's project:
 - A. Devalkeneer, “Segmentation EMS d'images 3D du cerveau”, 2005, co-supervisor with Prof. J. Verly;
 - G. Thielen, “Correction des artefacts d'enregistrement de signal électro-encéphalographique couplé à l'imagerie par résonance magnétique”, 2006, co-supervisor with Prof. J. Verly;
 - Y. Leclercq, “Correction of the ballistocardiographic artifact from EEG data acquired in the MRI scanner: An introduction of a cICA-based correction algorithm”, 2007;
@@ -116,12 +116,13 @@ Since 2005, supervision of 33 students in (mostly biomedical) engineering for th
 - G. Delporte, ["Robustness evaluation of a deep learning based Synthetic CT generation algorithm."](http://hdl.handle.net/2268.2/23235), June 2025, in collaboration with Dr. Geoffroy Herbin from IBA, Belgium.
 - V. Strizhneva, ["Linking Global Signal Amplitudes and Neuronal Activity During Mind Blanking Based on fMRI and EEG Data"](http://hdl.handle.net/2268.2/24912), September 2025, co-supervision with Prof. A. Demertzi, ULiège.
 - T. Guittet, "Registration of *ex vivo* histological data and *post mortem* high resolution MRIs in multiple sclerosis", planned for June 2026.
-- L. Guamgne Simo, tbd., planned for June 2026, in collaboration with V. Libertiaux & D. Koch from [XRIS](https://xris.eu/).
-- R. Minne, "*In vivo* human MR sodium imaging at 7T", planned for June 2026, in Collaboration with Dr M. Zubkov (GIGA-CRC Human Imaging).
-- M.-A. Lahriki (Master in biomedical science, faculty of medicine), "Extraction of neuroimaging data from a XNAT server into BIDS format", planned for June 2026, in Collaboration with Dr N. Beliy (GIGA-CRC Human Imaging).
+- L. Guamgne Simo, "Optimization of a tomosynthesis trajectory on an existing CT system", planned for June 2026, in collaboration with V. Libertiaux & D. Koch from [XRIS](https://xris.eu/).
+- R. Minne, "Multiecho sodium (23Na) magnetic resonance imaging sequence evaluation for R2* mapping", planned for June 2026, in Collaboration with Dr M. Zubkov (GIGA-CRC Human Imaging).
+- A. Thommes, "Multivariate approaches for quality control for multimodal MRI data", planned for June 2026, in Collaboration with Dr M. Bahri (GIGA-CRC Human Imaging).
+- M.-A. Lahriki (Master in biomedical science, Faculty of Medicine), "Extraction of neuroimaging data from a XNAT server into BIDS format", planned for June 2026, in Collaboration with Dr N. Beliy (GIGA-CRC Human Imaging).
 
 ### Internships
-Since 2017, 7 summer internships at the CRC:
+Since 2017, 8 summer internships at the CRC:
 - July-August 2017, Hao Hu, Polytech Nantes (Frances), "Sleep EEG visualisation";
 - May-August 2018, Aubin Ardois, Polytech Nantes (Frances), "Actigraphy data visualization and analysis", co-supervision with Dr. G. Hammad;
 - May-August 2019, Benjamin Leroy, Polytech Nantes (Frances), "Actigraphy data standardisation, description and storage", co-supervision with Dr. G. Hammad;
@@ -132,7 +133,7 @@ Since 2017, 7 summer internships at the CRC:
 - June-September 2025, Bradley Spitz, Télécom Physique Strasbourg (France), 12 week internship, "Intégration de l’outil BIDSme dans le package NeuroDesk".
 
 ### PhD students in applied sciences and biomedical science 
-Since 2008, supervision of 19 PhD students thesis in engineering and biomedical science.
+Since 2008, supervision of 22 PhD students thesis in engineering and biomedical science.
 
 #### Completed thesis (16)
 - Anne Collard, [“Geometric algorithms for the processing of DTI and their use in tractography and large scale genetic association study.”](http://hdl.handle.net/2268/156140), 2009-2013, co-sup. with Prof. R. Sepulchre (Dept of Electrical Engineering and Computer Science, ULiege), FNRS grant;
@@ -187,8 +188,8 @@ The list of publications and publication indexes are also available on the usual
 Some bibliographic indexes from, as of November 11, 2025:
 | Source         | H-index | #citations | #publications |
 | -------------- | ------- | ---------- | ------------- |
-| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 77      | 32461     | -             |
-| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)   | 64      | 15894     | 197           |
+| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 79      | 32956     | -             |
+| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)   | 64      | 16118     | 202           |
 
 A short selection of papers and talks is listed [here](https://hackmd.io/@cphillips/rkB08JWju).
 
@@ -247,8 +248,9 @@ These are listed on a [separate page](https://hackmd.io/sZeTzlxSTuenUpUpN2xNng#S
 ### Service to the scientific community:
 
 #### At ULiège
-- 2023 - 2026, Member of the "[Conseils sectoriels de la Recherche et de la Valorisation en Sciences et Techniques](https://www.recherche.uliege.be/cms/c_9099772/fr/conseil-sectoriel-de-la-recherche-et-de-la-valorisation-en-sciences-et-techniques)" (CSRV-ST, Sector Council for Research and Valorisation in Science and Techniques).
-- 2021 - now. Secretary of the academic board, [Department of Electrical Engineering and Computer Science](https://www.montefiore.uliege.be/).
+- 2025 - now. Member of "Open Science at ULiège" driving committee (as representative of the CSRV-ST).
+- 2023 - 2026. Member of the "[Conseils sectoriels de la Recherche et de la Valorisation en Sciences et Techniques](https://www.recherche.uliege.be/cms/c_9099772/fr/conseil-sectoriel-de-la-recherche-et-de-la-valorisation-en-sciences-et-techniques)" (CSRV-ST, Sector Council for Research and Valorisation in Science and Techniques).
+- 2021 - 2025. Secretary of the academic board, [Department of Electrical Engineering and Computer Science](https://www.montefiore.uliege.be/).
 - 2016 - now. Representative of the GIGA scientific staff on the ULiege ["Conseil du Corps Scientifique"](http://labos.ulg.ac.be/ccs/) ("Council of the Scientific Staff").
 - 2015 - now. *De facto* member of the Academic Council, [School of Engineering](https://www.fsa.uliege.be/cms/c_3112656/en/fsa).
 - 2015 - now. Board member of the Graduate School in Electrical Engineering
