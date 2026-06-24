@@ -31,17 +31,17 @@ My main interests consist in the development of techniques for the acquisition a
 ## Background information
 
 ### Career
-- October 2021 – now. FRS-FNRS Research Director, GIGA CRC Human Imaging, ULiège. 
+- October 2021 – now. FRS-FNRS Research Director, GIGA-CRC Human Imaging, ULiège. 
 - October 2021 – now. Professor, Department of Electrical Engineering & Computer Science, ULiège. 
 - October 2015 – September 2021. Associate Professor, Department of Electrical Engineering & Computer Science, ULiège. 
-- March 2012 – now. Honorary Research Associate, Machine Learning and Neuroimaging Lab, Department of Computer Science, University College London, UK. 
-- October 2015 – September 2021. FRS-FNRS Senior Research Associate, GIGA CRC *in vivo* imaging, ULiège. 
-- October 2008 – September 2015. Adjunct Assistant Professor, Department of Electrical Engineering & Computer Science, ULiège. 
+- October 2015 – September 2021. FRS-FNRS Senior Research Associate, GIGA-CRC *in vivo* imaging, ULiège. 
+- March 2012 – now. Honorary Research Associate, Machine Learning and Neuroimaging Lab, Department of Computer Science, University College London, UK.- October 2008 
+- September 2015. Adjunct Assistant Professor, Department of Electrical Engineering & Computer Science, ULiège. 
 - October 2006 – September 2015. FRS-FNRS Research Associate, CRC, ULiège. 
 - October 2004 – September 2006. Postdoctoral research engineer, Department of Electrical Engineering and Computer Science, ULiège. 
 - October 2001 – September 2004. FRS-FNRS Postdoctoral Researcher, CRC, ULiège. 
 - October 2000 – September 2001. Scientific Officer, Wellcome Department of Imaging Neuroscience (Prof. K. J. Friston), University College London, UK.
-- October 1998 – September 2000. Honorary researcher, Institute of Cognitive Neuroscience (with Prof. M. D. Rugg) and Wellcome Department of Imaging Neuroscience (with Prof. K. J Friston), University College London, UK.
+- October 1998 – September 2000. Honorary researcher, Institute of Cognitive Neuroscience (with Prof. M. D. Rugg) and Wellcome Department of Imaging Neuroscience (with Prof. K. J. Friston), University College London, UK.
 - September 1996 - September 2001. PhD Research Engineer, CRC, ULiège.
 - September 1994 - June 1996. Master in Electrical Engineering, ULiège.
 - September 1991 - June 1994. Bachelor in Engineering, ULiège.
@@ -185,11 +185,11 @@ These are listed on a [separate page](https://hackmd.io/1xZiY7fLRzmrIZPnjcnW4w#T
 All the publications are **available in open access** via [Orbi@ULiège](http://orbi.uliege.be/ph-search?uid=u016440) and here is my [ORCID](https://orcid.org/0000-0002-4990-425X) page.
 The list of publications and publication indexes are also available on the usual platforms such as [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) and [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552).
 
-Some bibliographic indexes from, as of March 20, 2026:
+Some bibliographic indexes from, as of May 29, 2026:
 | Source         | H-index | #citations | #publications |
 | -------------- | ------- | ---------- | ------------- |
-| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 80      | 33385     | -             |
-| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)   | 65      | 16313     | 202           |
+| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 80      | 34002     | -             |
+| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)   | 66      | 16552     | 202           |
 
 A short selection of papers and talks is listed [here](https://hackmd.io/@cphillips/rkB08JWju).
 
@@ -220,10 +220,11 @@ Note that the latter is hosted on the ULiege server.
 - 2009-2015, ULiège representative for the Marie Curie International Training Network (MC-ITN) “Methods in Neuroimaging”. Along the CRC (ULiège), the network also involves: the Maastricht Brain Imaging Centre (Maastricht University, the Netherlands), the Research Centre Jülich (Germany) and GSK Clinical Imaging Centre, UK. 
   Seven Ph.D. theses in ULiège-UMaastricht co-diplomation .
 
-### Scientific prizes
+### Honors and awards
+- 2026, inducted as "[Fellow](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3961)" of the Organization for Human Brain Mapping (OHBM.)
 - 2014, “Prix Janine et Jacques Delruelle” (from the “Fondation Médicale Reine Elisabeth”) with Prof. Maquet for our work on “Characterization of human sleep/wake regulation using multimodal functional imaging in population stratified on the polymorphism of PERIOD3 gene”.
 - 2005 “Marcel Linsman Prize” (from “l'Association des Ingénieurs sortis de l'Université de Liège a.s.b.l.”) for my work in biomedical engineering.
-- 2003, “Association of the university of Liège friends“ Prize, for the PhD thesis : “Source estimation in EEG: Combining anatomical and functional constraints”.
+- 2003, “Association of the university of Liège friends“ Prize, for my PhD thesis : “Source estimation in EEG: Combining anatomical and functional constraints”.
 - 1997, Siemens Belgium Prize in medical imaging for the Master project: “3D image reconstruction from cone-beam projections”.
 
 ### Other activities
