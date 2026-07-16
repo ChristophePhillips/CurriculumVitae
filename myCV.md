@@ -115,11 +115,11 @@ Since 2005, supervision of 34 students in (mostly) biomedical engineering for th
 - A. Jacquemin, ["Image smoothing in neuroimaging : effect of Gaussian vs. tissue-specific approaches on statistical analysis"](http://hdl.handle.net/2268.2/22438), January 2025.
 - G. Delporte, ["Robustness evaluation of a deep learning based Synthetic CT generation algorithm."](http://hdl.handle.net/2268.2/23235), June 2025, in collaboration with Dr. Geoffroy Herbin from IBA, Belgium.
 - V. Strizhneva, ["Linking Global Signal Amplitudes and Neuronal Activity During Mind Blanking Based on fMRI and EEG Data"](http://hdl.handle.net/2268.2/24912), September 2025, co-supervision with Prof. A. Demertzi, ULiège.
-- T. Guittet, "Registration of *ex vivo* histological data and *post mortem* high resolution MRIs in multiple sclerosis", planned for June 2026.
-- L. Guamgne Simo, "Optimization of a tomosynthesis trajectory on an existing CT system", planned for June 2026, in collaboration with V. Libertiaux & D. Koch from [XRIS](https://xris.eu/).
-- R. Minne, "Multiecho sodium (23Na) magnetic resonance imaging sequence evaluation for R2* mapping", planned for June 2026, in collaboration with Dr M. Zubkov (GIGA-CRC Human Imaging).
-- A. Thommes, "Multivariate approaches for quality control for multimodal MRI data", planned for June 2026, in collaboration with Dr M. Bahri (GIGA-CRC Human Imaging).
-- M.-A. Lahriki (Master in biomedical science, Faculty of Medicine), "Extraction of neuroimaging data from a XNAT server into BIDS format", planned for June 2026, in collaboration with Dr N. Beliy (GIGA-CRC Human Imaging).
+- T. Guittet, ["Registration of *ex vivo* histological data and *post mortem* high resolution MRIs in multiple sclerosis"](http://hdl.handle.net/2268.2/26038), June 2026.
+- L. Guamgne Simo, ["Optimization of a tomosynthesis trajectory on an existing CT system"](http://hdl.handle.net/2268.2/26183), June 2026, in collaboration with V. Libertiaux & D. Koch from [XRIS](https://xris.eu/).
+- R. Minne, ["Multiecho sodium (23Na) magnetic resonance imaging sequence evaluation for R2* mapping"](http://hdl.handle.net/2268.2/26149), June 2026, in collaboration with Dr M. Zubkov (GIGA-CRC Human Imaging).
+- A. Thommes, "Multivariate approaches for quality control for multimodal MRI data", planned for September 2026, in collaboration with Dr M. Bahri (GIGA-CRC Human Imaging).
+- M.-A. Lahriki (Master in biomedical science, Faculty of Medicine), "Extraction of neuroimaging data from a XNAT server into BIDS format", planned for September 2026, in collaboration with Dr N. Beliy (GIGA-CRC Human Imaging).
 
 ### Internships
 Since 2017, 8 summer internships at the CRC:
