@@ -36,7 +36,7 @@ My main interests consist in the development of techniques for the acquisition a
 - October 2015 – September 2021. Associate Professor, Department of Electrical Engineering & Computer Science, ULiège. 
 - October 2015 – September 2021. FRS-FNRS Senior Research Associate, GIGA-CRC *in vivo* imaging, ULiège. 
 - March 2012 – now. Honorary Research Associate, Machine Learning and Neuroimaging Lab, Department of Computer Science, University College London, UK.- October 2008 
-- September 2015. Adjunct Assistant Professor, Department of Electrical Engineering & Computer Science, ULiège. 
+- October 2007 – September 2015. Adjunct Assistant Professor, Department of Electrical Engineering & Computer Science, ULiège. 
 - October 2006 – September 2015. FRS-FNRS Research Associate, CRC, ULiège. 
 - October 2004 – September 2006. Postdoctoral research engineer, Department of Electrical Engineering and Computer Science, ULiège. 
 - October 2001 – September 2004. FRS-FNRS Postdoctoral Researcher, CRC, ULiège. 
@@ -185,11 +185,11 @@ These are listed on a [separate page](https://hackmd.io/1xZiY7fLRzmrIZPnjcnW4w#T
 All the publications are **available in open access** via [Orbi@ULiège](http://orbi.uliege.be/ph-search?uid=u016440) and here is my [ORCID](https://orcid.org/0000-0002-4990-425X) page.
 The list of publications and publication indexes are also available on the usual platforms such as [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) and [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552).
 
-Some bibliographic indexes from, as of May 29, 2026:
+Some bibliographic indexes from, as of September 14, 2026:
 | Source         | H-index | #citations | #publications |
 | -------------- | ------- | ---------- | ------------- |
-| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 80      | 34002     | -             |
-| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)   | 66      | 16552     | 202           |
+| [Google Scholar](https://scholar.google.be/citations?user=U6i6DFYAAAAJ) | 81      | 35238     | -             |
+| [Scopus](http://www.scopus.com/authid/detail.url?authorId=7403135552)   | 67      | 16874     | 205           |
 
 A short selection of papers and talks is listed [here](https://hackmd.io/@cphillips/rkB08JWju).
 
@@ -207,8 +207,7 @@ Contribution to existing toolboxes
 - ["*BIDSme*"](https://github.com/CyclotronResearchCentre/bidsme). Multimodal dataset BIDS-ification, CRC project, since 2019.
 - ["*bids-matlab*"](https://github.com/bids-standard/bids-matlab). Matlab/Octave library to easily interact with BIDS-organiser data, since 2021.
 
-Other bits of code produced at the CRC/GIGA-research are distributed under an open source license via the Cyclotron Research Centre's [GitHub](https://github.com/CyclotronResearchCentre) or [GitLab](https://gitlab.uliege.be/CyclotronResearchCentre) platforms. <br>
-Note that the latter is hosted on the ULiege server.
+Other bits of code produced at the CRC/GIGA-research are distributed under an open source license via the Cyclotron Research Centre's [GitHub](https://github.com/CyclotronResearchCentre) or [GitLab](https://gitlab.uliege.be/CyclotronResearchCentre) platforms. Note that the latter is hosted on the ULiege server.
 
 ### National and international collaborations
 (past and current)
@@ -252,7 +251,7 @@ These are listed on a [separate page](https://hackmd.io/sZeTzlxSTuenUpUpN2xNng#S
 - 2025 - now. Member of "Open Science at ULiège" driving committee (as representative of the CSRV-ST).
 - 2023 - 2027. Member of the "[Conseils sectoriels de la Recherche et de la Valorisation en Sciences et Techniques](https://www.recherche.uliege.be/cms/c_9099772/fr/conseil-sectoriel-de-la-recherche-et-de-la-valorisation-en-sciences-et-techniques)" (CSRV-ST, Sector Council for Research and Valorisation in Science and Techniques).
 - 2021 - 2025. Secretary of the academic board, [Department of Electrical Engineering and Computer Science](https://www.montefiore.uliege.be/).
-- 2016 - now. Representative of the GIGA scientific staff on the ULiege ["Conseil du Corps Scientifique"](http://labos.ulg.ac.be/ccs/) ("Council of the Scientific Staff").
+- 2016 - 2026. Representative of the GIGA scientific staff on the ULiege ["Conseil du Corps Scientifique"](http://labos.ulg.ac.be/ccs/) ("Council of the Scientific Staff").
 - 2015 - now. *De facto* member of the Academic Council, [School of Engineering](https://www.fsa.uliege.be/cms/c_3112656/en/fsa).
 - 2015 - now. Board member of the Graduate School in Electrical Engineering
 
